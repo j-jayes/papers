@@ -1,0 +1,23 @@
+---
+title: "ep3"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(rvest)
+```
+
+```{r}
+df <- read_html(here::here("electricity-paper-3", "ep3.htm"))
+
+tables <- df %>% 
+  html_nodes("body") %>% 
+  html_nodes(".report") %>% 
+  html_nodes(".item") %>% 
+  html_table()
+
+
+tables %>% 
+  pluck(1)
+```

@@ -1,0 +1,2620 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Zotero Report</title>
+		<link rel="stylesheet" type="text/css" href="data:text/css;base64,Ym9keSB7CgliYWNrZ3JvdW5kOiB3aGl0ZTsKfQoKYSB7Cgl0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsKfQoKYm9keSB7CglwYWRkaW5nOiAwOwp9Cgp1bC5yZXBvcnQgbGkuaXRlbSB7Cglib3JkZXItdG9wOiA0cHggc29saWQgIzU1NTsKCXBhZGRpbmctdG9wOiAxZW07CglwYWRkaW5nLWxlZnQ6IDFlbTsKCXBhZGRpbmctcmlnaHQ6IDFlbTsKCW1hcmdpbi1ib3R0b206IDJlbTsKfQoKaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7Cglmb250LXdlaWdodDogbm9ybWFsOwp9CgpoMiB7CgltYXJnaW46IDAgMCAuNWVtOwp9CgpoMi5wYXJlbnRJdGVtIHsKCWZvbnQtd2VpZ2h0OiBib2xkOwoJZm9udC1zaXplOiAxZW07CglwYWRkaW5nOiAwIDAgLjVlbTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwp9CgovKiBJZiBjb21iaW5pbmcgY2hpbGRyZW4sIGRpc3BsYXkgcGFyZW50IHNsaWdodGx5IGxhcmdlciAqLwp1bC5yZXBvcnQuY29tYmluZUNoaWxkSXRlbXMgaDIucGFyZW50SXRlbSB7Cglmb250LXNpemU6IDEuMWVtOwoJcGFkZGluZy1ib3R0b206IC43NWVtOwoJbWFyZ2luLWJvdHRvbTogLjRlbTsKfQoKaDIucGFyZW50SXRlbSAudGl0bGUgewoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKaDMgewoJbWFyZ2luLWJvdHRvbTogLjZlbTsKCWZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cglmb250LXNpemU6IDFlbTsKCWRpc3BsYXk6IGJsb2NrOwp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0aCB7Cgl2ZXJ0aWNhbC1hbGlnbjogdG9wOwoJdGV4dC1hbGlnbjogcmlnaHQ7Cgl3aWR0aDogMTUlOwoJd2hpdGUtc3BhY2U6IG5vd3JhcDsKfQoKdGQgewoJcGFkZGluZy1sZWZ0OiAuNWVtOwp9CgoKdWwucmVwb3J0LCB1bC5ub3RlcywgdWwudGFncyB7CglsaXN0LXN0eWxlOiBub25lOwoJbWFyZ2luLWxlZnQ6IDA7CglwYWRkaW5nLWxlZnQ6IDA7Cn0KCi8qIFRhZ3MgKi8KaDMudGFncyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC50YWdzIHsKCWxpbmUtaGVpZ2h0OiAxLjc1ZW07CglsaXN0LXN0eWxlOiBub25lOwp9Cgp1bC50YWdzIGxpIHsKCWRpc3BsYXk6IGlubGluZTsKfQoKdWwudGFncyBsaTpub3QoOmxhc3QtY2hpbGQpOmFmdGVyIHsKCWNvbnRlbnQ6ICcsICc7Cn0KCgovKiBDaGlsZCBub3RlcyAqLwpoMy5ub3RlcyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC5ub3RlcyB7CgltYXJnaW4tYm90dG9tOiAxLjJlbTsKfQoKdWwubm90ZXMgPiBsaTpmaXJzdC1jaGlsZCBwIHsKCW1hcmdpbi10b3A6IDA7Cn0KCnVsLm5vdGVzID4gbGkgewoJcGFkZGluZzogLjdlbSAwOwp9Cgp1bC5ub3RlcyA+IGxpOm5vdCg6bGFzdC1jaGlsZCkgewoJYm9yZGVyLWJvdHRvbTogMXB4ICNjY2Mgc29saWQ7Cn0KCgp1bC5ub3RlcyA+IGxpIHA6Zmlyc3QtY2hpbGQgewoJbWFyZ2luLXRvcDogMDsKfQoKdWwubm90ZXMgPiBsaSBwOmxhc3QtY2hpbGQgewoJbWFyZ2luLWJvdHRvbTogMDsKfQoKLyogQWRkIHF1b3RhdGlvbiBtYXJrcyBhcm91bmQgYmxvY2txdW90ZSAqLwp1bC5ub3RlcyA+IGxpIGJsb2NrcXVvdGUgcDpub3QoOmVtcHR5KTpiZWZvcmUsCmxpLm5vdGUgYmxvY2txdW90ZSBwOm5vdCg6ZW1wdHkpOmJlZm9yZSB7Cgljb250ZW50OiAn4oCcJzsKfQoKdWwubm90ZXMgPiBsaSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciwKbGkubm90ZSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciB7Cgljb250ZW50OiAn4oCdJzsKfQoKLyogUHJlc2VydmUgd2hpdGVzcGFjZSBvbiBwbGFpbnRleHQgbm90ZXMgKi8KdWwubm90ZXMgbGkgcC5wbGFpbnRleHQsIGxpLm5vdGUgcC5wbGFpbnRleHQsIGRpdi5ub3RlIHAucGxhaW50ZXh0IHsKCXdoaXRlLXNwYWNlOiBwcmUtd3JhcDsKfQoKLyogRGlzcGxheSB0YWdzIHdpdGhpbiBjaGlsZCBub3RlcyBpbmxpbmUgKi8KdWwubm90ZXMgaDMudGFncyB7CglkaXNwbGF5OiBpbmxpbmU7Cglmb250LXNpemU6IDFlbTsKfQoKdWwubm90ZXMgaDMudGFnczphZnRlciB7Cgljb250ZW50OiAnICc7Cn0KCnVsLm5vdGVzIHVsLnRhZ3MgewoJZGlzcGxheTogaW5saW5lOwp9Cgp1bC5ub3RlcyB1bC50YWdzIGxpOm5vdCg6bGFzdC1jaGlsZCk6YWZ0ZXIgewoJY29udGVudDogJywgJzsKfQoKCi8qIENoaWxkIGF0dGFjaG1lbnRzICovCmgzLmF0dGFjaG1lbnRzIHsKCWZvbnQtc2l6ZTogMS4xZW07Cn0KCnVsLmF0dGFjaG1lbnRzIGxpIHsKCXBhZGRpbmctdG9wOiAuNWVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSB7CgltYXJnaW4tbGVmdDogMmVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSBwOmZpcnN0LWNoaWxkIHsKCW1hcmdpbi10b3A6IC43NWVtOwp9CgpkaXYgdGFibGUgewoJYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsKfQoKZGl2IHRhYmxlIHRkLCBkaXYgdGFibGUgdGggewoJYm9yZGVyOiAxcHggI2NjYyBzb2xpZDsKCWJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7Cgl3b3JkLWJyZWFrOiBicmVhay1hbGw7Cn0KCmRpdiB0YWJsZSB0ZCBwOmVtcHR5OjphZnRlciwgZGl2IHRhYmxlIHRoIHA6ZW1wdHk6OmFmdGVyIHsKCWNvbnRlbnQ6ICJcMDBhMCI7Cn0KCmRpdiB0YWJsZSB0ZCAqOmZpcnN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpmaXJzdC1jaGlsZCB7CgltYXJnaW4tdG9wOiAwOwp9CgpkaXYgdGFibGUgdGQgKjpsYXN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpsYXN0LWNoaWxkIHsKCW1hcmdpbi1ib3R0b206IDA7Cn0K">
+		<link rel="stylesheet" type="text/css" media="screen,projection" href="data:text/css;base64,LyogR2VuZXJpYyBzdHlsZXMgKi8KYm9keSB7Cglmb250OiA2Mi41JSBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cgl3aWR0aDogNzgwcHg7CgltYXJnaW46IDAgYXV0bzsKfQoKaDIgewoJZm9udC1zaXplOiAxLjVlbTsKCWxpbmUtaGVpZ2h0OiAxLjVlbTsKCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cn0KCnAgewoJbGluZS1oZWlnaHQ6IDEuNWVtOwp9CgphOmxpbmssIGE6dmlzaXRlZCB7Cgljb2xvcjogIzkwMDsKfQoKYTpob3ZlciwgYTphY3RpdmUgewoJY29sb3I6ICM3Nzc7Cn0KCgp1bC5yZXBvcnQgewoJZm9udC1zaXplOiAxLjRlbTsKCXdpZHRoOiA2ODBweDsKCW1hcmdpbjogMCBhdXRvOwoJcGFkZGluZzogMjBweCAyMHB4Owp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0YWJsZSB7Cglib3JkZXI6IDFweCAjY2NjIHNvbGlkOwoJb3ZlcmZsb3c6IGF1dG87Cgl3aWR0aDogMTAwJTsKCW1hcmdpbjogLjFlbSBhdXRvIC43NWVtOwoJcGFkZGluZzogMC41ZW07Cn0K">
+		<link rel="stylesheet" type="text/css" media="print" href="data:text/css;base64,Ym9keSB7Cglmb250OiAxMnB0ICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgR2VvcmdpYSwgc2VyaWY7CgltYXJnaW46IDA7Cgl3aWR0aDogYXV0bzsKCWNvbG9yOiBibGFjazsKfQoKLyogUGFnZSBCcmVha3MgKHBhZ2UtYnJlYWstaW5zaWRlIG9ubHkgcmVjb2duaXplZCBieSBPcGVyYSkgKi8KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7CglwYWdlLWJyZWFrLWFmdGVyOiBhdm9pZDsKCXBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsKfQoKdWwsIG9sLCBkbCB7CglwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Cgljb2xvci1hZGp1c3Q6IGV4YWN0Owp9CgpoMiB7Cglmb250LXNpemU6IDEuM2VtOwoJbGluZS1oZWlnaHQ6IDEuM2VtOwp9CgphIHsKCWNvbG9yOiAjMDAwOwoJdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9Cg==">
+	</head>
+	<body>
+		<ul class="report combineChildItems">
+			<li id="item_FNXSL7P7" class="item journalArticle">
+			<h2>Bargaining Power, Strike Durations, and Wage Outcomes: An Analysis of Strikes in the 1880s</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>David Card</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>C. Olson</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/b34432f7902a14e1b34e2a87976cb2ccf3527dfd">https://www.semanticscholar.org/paper/b34432f7902a14e1b34e2a87976cb2ccf3527dfd</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>13</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>32 - 61</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Labor Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1992</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1086/298367">10.1086/298367</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Strike outcomes in the 1880s had a "winner-take-all" 
+character. Successful strikes ended with a discrete wage gain; failed 
+strikes ended with a return to work at the prestrike wage. We present a 
+theoretical interpretation of these outcomes based on a war-of-attrition
+ model. We fit an empirical model specifying the capitulation times of 
+the two parties and the size of the wage gain in the event of a strike 
+success. The results show a systematic relation between the determinants
+ of strike success and the determinants of the wage gain for a 
+successful strike.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_IQWJPVT5" class="item journalArticle">
+			<h2>British Labour Statistics Historical Abstract 1886 1968</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>P. Scher</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/172999ba848a4af935bfde1679956ed12085ee32">https://www.semanticscholar.org/paper/172999ba848a4af935bfde1679956ed12085ee32</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2021</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>1886 1968 British Labour Statistics Historical Abstract 1886 
+1968 Thank you definitely much for downloading british labour statistics
+ historical abstract 1886 1968.Maybe you have knowledge that, people 
+have look numerous period for their favorite books subsequent to this 
+british labour statistics historical abstract 1886 1968, but end 
+stirring in harmful downloads. Rather than enjoying a good ebook 
+following a mug of coffee in the afternoon, instead they juggled when 
+some harmful virus inside their computer. british labour statistics 
+historical abstract 1886 1968 is easily reached in our digital library 
+an Page 1/15 Download Free British Labour Statistics Historical Abstract
+ 1886 1968 online c ess to it is set as public consequently you can 
+download it instantly. Our digital library saves in multiple countries, 
+allowing you to acquire the most less latency period to download any of 
+our books next this one. Merely said, the british labour statistics 
+historical abstract 1886 1968 is universally compatible following any 
+devices to read.1886 1968 online c ess to it is set as public 
+consequently you can download it instantly. Our digital library saves in
+ multiple countries, allowing you to acquire the most less latency 
+period to download any of our books next this one. Merely said, the 
+british labour statistics historical abstract 1886 1968 is universally 
+compatible following any devices to read. The Twittering Machine: 
+Richard Seymour and Wendy Liu in Conversation Abstract and concrete 
+labour Neoliberalism’s World OrderNoam Chomsky Freedom of Speech, 
+'cancel culture', \u0026 coronavirus The History Of Socialism And 
+Capitalism The New Human Rights Movement ¦ Peter Joseph, Nov. 8th 2017 
+Talk Abstract: The Art of Design ¦</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_EGAFTHZS" class="item journalArticle">
+			<h2>Collective Action and the Origins of the American Labor Movement</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Ethan Schmick</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/151966ddfca8b3768c2536323944d195c96282ce">https://www.semanticscholar.org/paper/151966ddfca8b3768c2536323944d195c96282ce</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>78</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>744 - 784</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>The Journal of Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1017/S0022050718000360">10.1017/S0022050718000360</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>This article examines the relationship between collective 
+action and the size of worker and employer groups in the United States. 
+It proposes and tests a theory of union formation and strikes. Using a 
+new county-by-industry level dataset containing the location of unions, 
+the location of strikes, average establishment size, and the number of 
+establishments around the turn of the twentieth century, I find that 
+unions were more likely to form and strikes were more likely to occur in
+ counties with intermediate-sized worker groups and large employer 
+groups.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_G2HQB7E3" class="item journalArticle">
+			<h2>Conflict and compromise: Changes in U.S. strike outcomes, 1880 to 1945</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Geraghty</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Thomas Wiseman</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c9f88f792286dfa870d5cbbb6a705149116c68f1">https://www.semanticscholar.org/paper/c9f88f792286dfa870d5cbbb6a705149116c68f1</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>48</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>519-537</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Explorations in Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2011</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1016/J.EEH.2011.06.002">10.1016/J.EEH.2011.06.002</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_A3CBII8Y" class="item journalArticle">
+			<h2>Cross-Border Unions: Internationals in Canada, 1901–1914</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>M. Huberman</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Denise Young</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/f2ae9d786debdad1435de6a10ae9a6ed1ecdb54b">https://www.semanticscholar.org/paper/f2ae9d786debdad1435de6a10ae9a6ed1ecdb54b</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>36</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>204-231</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Explorations in Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1999</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1006/EXEH.1999.0716">10.1006/EXEH.1999.0716</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Abstract Debate on the role of international unions (unions 
+with headquarters in the United States) in Canada is longstanding. One 
+school of thought maintains that internationals have weakened Canada's 
+union movement; another view holds that international and national 
+unions acted in concert and increased the number of disputes and the 
+likelihood of workers' victory. Using a newly created data base of 
+strike dimensions for the period before World War I, the key years of 
+union growth in Canada, we test these opposing views in a 
+competing-risks framework. We find that internationals did not weaken 
+Canada's union movement; nor did the two union types act in concert. 
+Instead, internationals were absorbed in Canada's industrial relations 
+framework.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_TUA4TUSK" class="item journalArticle">
+			<h2>Does Electricity Drive Structural Transformation? Evidence from the United States</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>P. Gaggl</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Rowena Gray</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>I. Marinescu</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>M. Morin</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/0bef29bb9587f37f6910243ffbe0517ef8ff7400">https://www.semanticscholar.org/paper/0bef29bb9587f37f6910243ffbe0517ef8ff7400</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>IZA Institute of Labor Economics Discussion Paper Series</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2019</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.2139/ssrn.3478846">10.2139/ssrn.3478846</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Electricity is a general purpose technology and the catalyst 
+for the second industrial revolution. Developing countries are currently
+ making huge investments in electrification, with a view to achieving 
+structural change. What does history say about its impact on the 
+structure of employment? We use U.S. Census data from 1910 to 1940 and 
+measure electrification with the length of higher-voltage electricity 
+lines. Instrumenting for electrification using hydroelectric potential, 
+we find that the average expansion of high-voltage transmission lines 
+between 1910 and 1940 increased the share of operatives in a county by 
+3.3 percentage points and decreased the share of farmers by 2.1 
+percentage points. Electrification can explain 50.5% of the total 
+increase in operatives, and 18.1% of the total decrease in farmers 
+between 1910 and 1940. At the industry level, electrification drove 
+15.7% of the decline in the share of agricultural employment and 28.4% 
+of the increase in the share of manufacturing employment between 1910 
+and 1940. Electrification was thus a key driver of structural 
+transformation in the U.S. economy.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_RZPEFXKY" class="item journalArticle">
+			<h2>Electricity and the Technology–Skill Complementarity: Evidence from the Swedish Industrial Census of 1931</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Svante Prado</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>D. Theodoridis</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/3cc26baaafd6165ae9f609c46a2948bd3cfa7731">https://www.semanticscholar.org/paper/3cc26baaafd6165ae9f609c46a2948bd3cfa7731</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>35</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>97-122</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Essays in Economic and Business History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2017</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Notwithstanding the popularity among economists of attributing
+ the surging inequality of recent decades to technology–skill 
+complementarity, researchers with a keen eye on history have been 
+reluctant to pick up this thread. This paper joins Claudia Goldin and 
+Lawrence Katz’s attempt to examine the role of electrification as an 
+example of a technology that is complementary to workers’ rising skill 
+levels. Sweden electrified manufacturing processes rapidly in the first 
+quarter of the twentieth century, while the supply of skills through 
+secondary education only increased significantly in the 1950s. We use 
+industry-specific information from the Swedish Industrial Census of 1931
+ to establish whether electricity and the use of white-collar workers 
+correlated positively. The results indicate that the correlation was 
+positive, but the estimated effect was rather small. Moreover, the 
+available evidence for skill ratios does not suggest that inequality, 
+thus measured, increased. We conclude that labor market institutions 
+prevented—and also overturned—the inequality push emanating from 
+technology.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_BPS2BBNK" class="item journalArticle">
+			<h2>Elektrizitätsversorgung der Schweiz</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Hans Roth</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/ad68d14397ea93714c65441dcd3dee27de335011">https://www.semanticscholar.org/paper/ad68d14397ea93714c65441dcd3dee27de335011</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>8</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>271-277</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Naturwissenschaften</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1920</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1007/BF02448107">10.1007/BF02448107</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_UBELN5VC" class="item journalArticle">
+			<h2>From Conflict to Compromise: The Importance of Mediation in Swedish Work Stoppages 1907-1927</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Kerstin Enflo</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/950190239f76f8c48bdd532785a48750ea81114f">https://www.semanticscholar.org/paper/950190239f76f8c48bdd532785a48750ea81114f</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Labor: Personnel Economics eJournal</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1093/EREH/HEY023">10.1093/EREH/HEY023</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Institutions for prevention and resolution of industrial 
+conflicts were introduced all over the world in the early twentieth 
+century. We use a new dataset of geocoded strikes and lockouts to 
+analyze the impact of mediation on conflict outcomes in Sweden for the 
+period 1907–1927. Causality is identified by using the distance from the
+ mediator’s place of residence to the conflict as an instrument. Despite
+ the mediators’ limited authority we find that their involvement in a 
+conflict resulted in about 30 percent higher probability of a 
+compromise. The results add support to institutionalist accounts of the 
+origins of the Swedish Model.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_HS2AR9D9" class="item journalArticle">
+			<h2>FUTURE LABOUR MARKET DEMAND IN VIDZEME REGION, LATVIA</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Sarmite Rozentale</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Livina</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Sandra Brigsa</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Aigars Andersons</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Ieva Kreitūze</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/d41e049b8326dd52f98a39ebd878a295f22dc725">https://www.semanticscholar.org/paper/d41e049b8326dd52f98a39ebd878a295f22dc725</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.3846/BM.2016.18">10.3846/BM.2016.18</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>The objective of the study was to identify employers’ needs of
+ the future labour market in 5–7 years in Vidzeme Region. The data were 
+obtained from a quantitative survey of employers and expert interviews 
+according to Delphi method. Experts believe that some brand new 
+profession may appear, but mostly changes will affect the contents of 
+the professions and the required skills. As regards the topicality of 
+occupations within the next five years, the experts all agree on 
+priority of information and communication services and related 
+professions. The second most frequently mentioned is the processing 
+industry, since a change in the working specifics will require 
+employees, able to use complicated equipment. DOI: 
+https://doi.org/10.3846/bm.2016.18</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_76LYGDDA" class="item journalArticle">
+			<h2>Greed, grievance, leadership and external interventions in the initiation and intensification of the civil war in Angola</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>R. Sousa</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/213e749a33b3844bf5e58403cc358b7c1a9d21c2">https://www.semanticscholar.org/paper/213e749a33b3844bf5e58403cc358b7c1a9d21c2</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>7</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>73-95</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of International Relations</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Understanding the initiation of conflict is fundamental for 
+the success of efforts in conflict prevention. The validity of the 
+mechanisms of the “Greed and Grievance” model, alongside leadership and 
+external interventions are tested in four periods of initiation and 
+intensification of the conflict in Angola. All mechanisms are present 
+but their relative relevance varies throughout the conflict. Among the 
+mechanisms identified in each period the most relevant in the Cold War 
+period are the international and regional interventions in 1961 and 1975
+ and in the post-Cold War period, the “greed” factors in 1992 (oil and 
+diamonds, poverty and war capital) and the UNITA leadership of Jonas 
+Savimbi in 1998. The case study provides evidence that “greed” and 
+“grievance” can be interlinked (such as in 1992) and confirms the 
+relevance of leadership and external interventions mechanisms.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_W9J2SQIA" class="item journalArticle">
+			<h2>Hope against Hope: Persistent Canadian Unions in the Interwar Years</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>M. Huberman</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Denise Young</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/61e5e3b40c63dc2747068253b8be51d67aba6aba">https://www.semanticscholar.org/paper/61e5e3b40c63dc2747068253b8be51d67aba6aba</a></td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Research Papers in Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2000</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Current forecasts paint a dismal future for unions; observers 
+in the 1920s and 1930s also projected bleak prospects for organized 
+labor. Analysts in the interwar years were off the mark. This paper 
+seeks to investigate whether the revival of the labor movement before 
+WWII was the result of institutional change, in particular the coming of
+ the CIO, or the outcome of an internal dynamic that gave rise to rapid 
+declines and spurts in growth. We test these two views in a 
+war-of-attrition context, using a newly constructed data set on Canadian
+ strikes between 1920 and 1939. Estimation is undertaken in a 
+competing-risks framework. We find that workers did not cave in when 
+employers sought to break their unions, and under certain conditions 
+workers could outlast employers. The increasing proportion of worker 
+wins in the early to mid 1930s led to the rise in union membership 
+observed before the arrival of the CIO in Canada in 1937. We conclude 
+that current predictions regarding the end of unions in the twenty-first
+ century may prove to be premature. Tout comme les analystes 
+contemporains, certains observateurs des annees 1920 et 1930 predisaient
+ un avenir sombre a la syndicalisation. Leurs previsions etaient 
+fausses. Cet article vise a verifier si la renaissance des syndicats 
+avant la Deuxieme Guerre mondiale est associee a un changement 
+organisationnel, soit l'arrivee du CIO, ou le resultat d'une dynamique 
+interne qui produit des periodes de croissance et de decroissance 
+rapide. En utilisant une nouvelle banque de donnees sur les greves au 
+Canada entre 1920 et 1939, dans un modele de guerre d'usure, cet article
+ teste ces deux propositions. Nous trouvons que les travailleurs n'ont 
+pas recule face aux menaces des employeurs et dans certains cas ils ont 
+remporte des conflits. Grâce a ces greves gagnantes, le nombre de 
+travailleurs syndiques s'est accru meme avant le CIO. On conclut que les
+ previsions courantes vouant les syndicats a la disparition au 
+vingt-et-unieme siecle sont prematurees.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_RNIIVVJV" class="item journalArticle">
+			<h2>Hope against Hope: Strike Activity in Canada, 1920-1939</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>M. Huberman</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Denise Young</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/b25e64a69c52765feeae21529895a3cd6f6b6fcd">https://www.semanticscholar.org/paper/b25e64a69c52765feeae21529895a3cd6f6b6fcd</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>39</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>315-354</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Explorations in Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2002</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1006/EXEH.2002.0787">10.1006/EXEH.2002.0787</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Abstract The received view is that, across countries and time,
+ strike dimensions trace an empirical regularity. The incidence and 
+duration of contract strikes move in opposite directions over the 
+business cycle: incidence is procyclical and duration countercyclical. 
+The Canadian experience in the interwar years was different. Strike 
+incidence was independent of the business cycle and strike durations 
+fell steadily over the period. A distinct pattern emerged. The 1920s saw
+ a decline in strike activity and steady losses for workers; in the 
+1930s strike activity gained momentum and there were more worker wins. 
+Our interpretation of this extraordinary episode is based on a new data 
+set collected for the period 1920 to 1939. We evaluate strikes in the 
+context of a war-of-attrition model and estimate the probability of 
+strike outcomes (success, failure, or compromise) and capitulation times
+ (for firms and workers) as functions of firm and striker 
+characteristics. We find that workers capitulated first in the 1920s 
+because firms used replacement workers as part of a larger strategy to 
+break the union movement. In the 1930s, it was firms' turn to capitulate
+ first because they had cut back on resources to fight strikes, even as 
+workers became more belligerent.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_CY66G6RL" class="item journalArticle">
+			<h2>Kampen om facket : den socialdemokratiska hegemonins förändringar</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Björn Horgby</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/02b3b86d0a5368bb36362d13841308e45642e2aa">https://www.semanticscholar.org/paper/02b3b86d0a5368bb36362d13841308e45642e2aa</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2012</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Boken behandlar fackforeningarnas roll i formeringen av den 
+svenska valfardsstaten; hur detta forutsatte skapandet av en 
+socialdemokratisk hegemoni samt hur den socialdemokratiska hegemonin 
+forsvag ...</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_CC3XDFMC" class="item journalArticle">
+			<h2>"Malmö - our town" : local politics in social democracy</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>P. Billing</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>L. Olsson</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Mikael Stigendal</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/ae757a5fbb1ee77868f6515300a5fe9e2fcd8612">https://www.semanticscholar.org/paper/ae757a5fbb1ee77868f6515300a5fe9e2fcd8612</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1992</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_6Y4ASQHY" class="item journalArticle">
+			<h2>Medical Net Discount Rates: Updated and Re-examined</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>R. Baumann</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>D. Schap</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/de3d164d4f435e791f955c80a90ef0295b78d51b">https://www.semanticscholar.org/paper/de3d164d4f435e791f955c80a90ef0295b78d51b</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>26</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>1-16</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Forensic Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2015</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.5085/0898-5510-26.1.1">10.5085/0898-5510-26.1.1</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Schap, Guest and Kraynak (2013) examines time series 
+properties of medical net discount rates (MNDRs) based on three 
+different, short-term Treasury securities. The article finds attributes 
+of stationarity in each of the series examined and notes greater support
+ for total offset of interest rates and medical cost growth rates than 
+does previously published research. The present study makes four 
+adjustments to Schap, Guest and Kraynak (2013). First, the data set is 
+updated by two years and four months. Second, the t-test applied in the 
+original study and also used in earlier studies of total offset fails to
+ account for autocorrelated error terms, so a substitute test is applied
+ to both the original data set and the newly extended data set, with 
+results reported. Third, Phillips-Perron testing is conducted in 
+addition to Augmented Dickey-Fuller and 
+Kwiatkowski-Phillips-Schmidt-Shin testing of stationarity of the various
+ series analyzed, with results reported. Finally, Zivot-Andrews testing 
+is applied diagnostically, to identify stationary sub-series of MNDRs, 
+similar to an approach used successfully to identify stationary 
+sub-series of wage net discount rates (Schap, Baumann and Guest, 2014). 
+The data analysis suggests two options available to practicing forensic 
+economists who endorse the use of Treasury securities of short duration 
+in formulating MNDRs. One option is to use total offset (i.e., a zero 
+MNDR), based on modestly favorable empirical support in the period 
+1981:01 to 2014:10. The alternative option would be to rely on a body of
+ evidence amassed over a shorter time frame, from 2001:01 to 2014:10, 
+but which has remarkably strong stationarity properties and yields MNDRs
+ between minus 1.5 and minus 2.0% (i.e., an implicit forecast of medical
+ cost growth exceeding the discount factor).</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_KQFGM9WB" class="item journalArticle">
+			<h2>More Power to the People: Electricity Adoption, Technological Change and Social Conflict</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Kerstin Enflo</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jakob Molinder</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/be20ff711aaf04cdf5316583edcb48ad487e3ba6">https://www.semanticscholar.org/paper/be20ff711aaf04cdf5316583edcb48ad487e3ba6</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>European Economics: Labor &amp; Social Conditions eJournal</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2019</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>There is a wide-spread concern that technical change may spur 
+social conflicts, especially if workers are replaced with machines. To 
+empirically analyze whether job destruction drives protests, we study a 
+historical example of a revolutionary new technology: the adoption of 
+electricity. Focusing on the gradual roll-out of the Swedish electricity
+ grid between 1900 and 1920 enables us to analyze 2,487 Swedish parishes
+ in a difference-in-differences framework. Proximity to large-scale 
+water-powered electricity plants is used to instrument for electricity 
+adoption. Our results confirm that the labor saving nature of 
+electricity was followed by an increase of local conflicts in the form 
+of strikes. But displaced workers were not likely to initiate conflicts.
+ Instead, strikes were most common in sectors with employment growth. 
+Similarly, we find that the strikes were of an offensive rather than a 
+defensive nature. Thus, electrification did not result in rebellions 
+driven by technological anxiety. It rather provided workers with a 
+stronger bargaining position from which they could voice their claims 
+through strikes.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_I9EPJYJG" class="item journalArticle">
+			<h2>More Power to the People: Electricity Adoption, Technological Change, and Labor Conflict</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jakob Molinder</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Kerstin Enflo</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/5ee6ba9244273b4c1ef01b971b656bd1509fd828">https://www.semanticscholar.org/paper/5ee6ba9244273b4c1ef01b971b656bd1509fd828</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>81</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>481 - 512</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>The Journal of Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2021</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1017/S0022050721000127">10.1017/S0022050721000127</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Will technical change spur conflicts in the labor market? In 
+this study, we examine electricity adoption in Sweden during the first 
+decades of the twentieth century. Exploiting that proximity to 
+hydropowered plants shaped the electricity network independently of 
+previous local conditions, we estimate the impact of electricity on 
+labor strikes. Our results indicate that electricity adoption preceded 
+an increase in conflicts, but strikes were of an offensive nature and 
+most common in sectors with increasing labor demand. This suggests that 
+electrification provided workers with a stronger bargaining position 
+from which they could voice their claims.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_5E74R7DQ" class="item journalArticle">
+			<h2>Ports, dock workers and labour market conflicts</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jesper Hamark</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/0be91b3a19e5e8aff3293215fcfa114086c03498">https://www.semanticscholar.org/paper/0be91b3a19e5e8aff3293215fcfa114086c03498</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2014</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Ports, dock workers and labour market conflicts Gothenburg 
+Studies in economic History 12 (2014) iSbn: 978-91-86217-11-2 
+http://hdl.handle.net/2077/37421 Author: Jesper Hamark doctoral 
+dissertation in economic History at the department of economy and 
+Society, School of business, economics and Law, university of 
+Gothenburg, P.o. box 625, Se-405 30 Gothenburg, Sweden. (Written in 
+english.) distribution: department of economy and Society (address as 
+above). this dissertation consists of an introduction and four research 
+papers that connect with two broad research fields: economic growth and 
+labour market conflicts. in the introduction i provide a theoretical 
+framework and i elaborate on the methods and material used in the 
+papers. in Paper 1, i investigate the topic of inter-industry propensity
+ to strike. earlier research has suggested that some groups of workers 
+have struck more than others. one such group is dock workers—known 
+within labour history and industrial relations for their militancy 
+across time and space. but as shown in the paper, there is no empirical 
+evidence for the particular strike-proneness of dockers up to WWii. Port
+ strikes seem to have been not so much a quantitative as a qualitative 
+phenomenon: the position of dockers in the distribution chain gave them 
+the potential to disrupt society to a degree far exceeding most other 
+occupational groups. in Paper 2, co-author christer thörnqvist and i 
+study the 1909 Swedish General Strike. the strike was not powerful 
+enough, and the trade unions and the Swedish trade union confederation, 
+Lo, met a crushing defeat. our focus is the functioning of the 
+transportation system—and the ports in particular—an aspect of vital 
+outcome for the strike, but one which is underdeveloped in previous 
+research. We make the argument that Lo did little or nothing to support 
+the strikers in the ports, and that export could continue with the 
+assistance of strikebreakers. one of the factors explaining Lo’s 
+disinterest in port affairs was its overall strategy to respect the laws
+ of the state; at the time it was a crime to even try to force someone 
+to strike, or in any way prevent someone from working. in Paper 3, i 
+examine technology and productivity in the pre-container Port of 
+Gothenburg. i argue that technological change was gradual for a long 
+period of time and that the forklift and pallet—adopted in the late 
+1940s—were responsible for setting off a series of changes. the 
+productivity figures i present strongly indicate growth up to WWii—an 
+empirical finding that contrasts with results from other ports. in the 
+postwar years productivity continued to grow, but at a faster rate 
+compared to the prewar years. the pattern of productivity offers 
+tentative support for the contention that the impact of the forklift was
+ revolutionary. in Paper 4, i discuss the transformation of the Swedish 
+labour market in the first half of the twentieth century: from high to 
+low levels of conflict activity. i critically evaluate the power 
+resources hypothesis, saying that the seizing of governmental power by 
+social democrats in the 1930s gave the working class opportunity to 
+shift focus: from costly strikes within the industrial sphere to less 
+costly redistributive policies within the political sphere. As an 
+alternative explanation i emphasize intra-labour tensions. communism, 
+syndicalism and social democracy showed diverse attitudes towards 
+industrial militancy, and the relative strength of the three ideologies 
+affected conflict activity accordingly. KeyWordS: port technology, port 
+productivity, Port of Gothenburg, dock workers, inter-industry 
+propensity to strike, isolated mass hypothesis, strikes and lockouts, 
+disruptive potential, workplace bargaining power, positional power, the 
+1909 General Strike in Sweden, Swedish labour market conflicts, power 
+resources hypothesis, ideology.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_WFYDR8FP" class="item journalArticle">
+			<h2>Pre-war grievances and violence against civilians in civil wars. Evidence from the Spanish Civil War in Catalonia.</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Francisco Herreros</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jordi Domènech</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c36a42cca88f673b33c35fee3e61e2afa4bb320f">https://www.semanticscholar.org/paper/c36a42cca88f673b33c35fee3e61e2afa4bb320f</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>12</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>584</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>International Journal of Conflict and Violence</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.4119/UNIBI/IJCV.584">10.4119/UNIBI/IJCV.584</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>This article claims that the role of pre-war grievances as a 
+predictor of violence against civilians in civil wars may have been 
+systematically underestimated because the “grievance hypothesis” has not
+ been properly tested. Pre-war grievances can only affect civilian 
+victimization in civil wars if they have been intensely mobilized in the
+ period close to the outbreak of the conflict and if there is a 
+temporary collapse of state capacity. This article presents a “fair 
+test” of the grievance hypothesis. It analyses in depth a specific case 
+of a pre-war grievance that met these two conditions. This case is the 
+conflict around land property rights in Catalonia before the Spanish 
+Civil War and its effects on violence against civilians during the war. 
+The results show a non-negligible effect of pre-war grievances on 
+civilian victimization.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_G7Q4ETSR" class="item journalArticle">
+			<h2>Relative deprivation and labour conflict during Spain’s industrialization: the Bilbao estuary, 1914–1936</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>S. Houpt</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Juan Carlos Rojo Cagigal</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c5128e9f5fa1ced570fc9faee76f727d83fb64f2">https://www.semanticscholar.org/paper/c5128e9f5fa1ced570fc9faee76f727d83fb64f2</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>8</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>335-369</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Cliometrica</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2014</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1007/S11698-013-0102-6">10.1007/S11698-013-0102-6</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_J5F9S27U" class="item journalArticle">
+			<h2>Rise of the Machines: The Effects of Labor-Saving Innovations on Jobs and Wages</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Georg Graetz</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c74bb20ac9df892468481be2e93783b045eba7d3">https://www.semanticscholar.org/paper/c74bb20ac9df892468481be2e93783b045eba7d3</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>IO: Productivity</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2015</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.2139/ssrn.2564969">10.2139/ssrn.2564969</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>How do firms respond to technological advances that facilitate
+ the automation of tasks? Which tasks will they automate, and what types
+ of worker will be replaced as a result? We present a model that 
+distinguishes between a task's engineering complexity and its training 
+requirements. When two tasks are equally complex, firms will automate 
+the task that requires more training and in which labor is hence more 
+expensive. Under quite general conditions this leads to job 
+polarization, a decline in middle wage jobs relative to both high and 
+low wage jobs. Our theory explains recent and historical instances of 
+job polarization as caused by labor-replacing technologies, such as 
+computers, the electric motor, and the steam engine, respectively. The 
+model makes novel predictions regarding occupational training 
+requirements, which we find to be consistent with US data.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_M9ZPVYVI" class="item journalArticle">
+			<h2>Social democracy and the decline of strikes</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jakob Molinder</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Kerstin Enflo</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/949441f58b67808fca9dc59447da993f75ef596d">https://www.semanticscholar.org/paper/949441f58b67808fca9dc59447da993f75ef596d</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Explorations in Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2021</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1016/J.EEH.2021.101420">10.1016/J.EEH.2021.101420</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_6JQW36SW" class="item journalArticle">
+			<h2>Staggered Wage Net Discount Rates:Accounting for Possibly “Sticky” Wages</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>R. Baumann</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>D. Schap</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/115d2543d31c0628aea9e6a7dff6a128312f28a5">https://www.semanticscholar.org/paper/115d2543d31c0628aea9e6a7dff6a128312f28a5</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>27</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>17-33</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Forensic Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.5085/JFE-428.1">10.5085/JFE-428.1</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Abstract Schap, Baumann and Guest (Journal of Forensic 
+Economics December 2014) report the time-series properties of wage net 
+discount rates for the period 1981.01-2012.12, formulated on the basis 
+of contemporaneously observed wage growth rates and various discount 
+rates (determined by yields on U.S. Treasury notes of differing 
+maturities). Gerald D. Martin (Determining Economic Damages, various 
+editions) has noted the relatively rapid response of interest rates to 
+economic stimuli compared with that of wages, which, being somewhat 
+institutionally driven, respond with a lag. Of course, Martin was not 
+the first to observe or mention these phenomena, but he does relate the 
+phenomena specifically to the suitability of forensic economic 
+application of wage net discount rates as typically derived (i.e., using
+ contemporaneously observed wage growth rates and discount rates). The 
+present study takes account of wage growth rates influenced by possible 
+institutional factors by lagging the time frame of their obser...</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_4W7VMPI3" class="item journalArticle">
+			<h2>Strikes and Lockouts in Sweden : Reconsidering Raphael’s List of Work Stoppages 1859-1902</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/8ab232bee6ce299a2ec35f8f7ad8abb320b2803f">https://www.semanticscholar.org/paper/8ab232bee6ce299a2ec35f8f7ad8abb320b2803f</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2019</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>This paper presents and discusses a recently digitized, 
+dataset of strikes and lockouts in Sweden for the period 1859-1902. The 
+dataset, which originally was collected by Axel Raphael by 
+retrospectively browsing through newspapers, pre-dates the Swedish 
+official statistics on work stoppages that began in 1903. Whereas 
+Raphael’s data have been used to illustrate the long-run development of 
+strikes, labour historians have been hesitant or completely dismissive 
+towards the usefulness of his work. This paper reviews, and deepens 
+previous assessments of Raphael’s data and compares his data with the 
+official statistics for the period after 1903. This renewed assessment 
+leads to three conclusions. Firstly, the coverage of the data is much 
+better after 1885 than before. Trends and fluctuations in conflict 
+frequency obtained from Raphael’s data for the later period are probably
+ accurate. Secondly, there are also in the later period a lot of missing
+ information in how conflicts are described, for example with regard to 
+number of participants and outcomes. Thirdly, there are good 
+opportunities to complement, and enhance, Raphael’s dataset by browsing 
+through more newspapers or consulting other sources.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_GHVUJ5PE" class="item journalArticle">
+			<h2>Technological Revolutions and Occupational Change : Electrifying News from the Old Days</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>M. Morin</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/8edf6b2d4e13d7ab40d693afca47f10d66dd443c">https://www.semanticscholar.org/paper/8edf6b2d4e13d7ab40d693afca47f10d66dd443c</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2015</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>How do major technological breakthroughs affect workers in the
+ wake of its adoption? We contribute to the understanding of this 
+question by studying the impact of early electricity adoption, using 
+newly digitized, detailed maps of the US electricity grid in 1918, 1928,
+ and 1940. Moreover, we follow individual workers over time by linking 
+individuals in the 100% count Census of Population for 1920, 1930, and 
+1940 to studty the impact of electricity adoption on employment, job and
+ sectoral mobility, as well as earnings. To identify the causal impact 
+on worker trajectories, we exploit the geography of hydro-electric 
+potential, which is highly heterogeneous across U.S. regions and 
+provides arguably exogenous variation in the incentive to adopt 
+electricity. Unlike earler studies, our analysis is neither limited to 
+particular industries nor particular geographies and constitutes the 
+first comprehensive analysis of individual worker trajectories in 
+response to a major technological revolution in the US. Our preliminary 
+results uncover a number of interesting insights: on average, 
+electricity (1) replaces jobs; (2) causes substantial upward movement in
+ the earnings distribution for farm workers; (3) causes individuals to 
+perform substantially different tasks than before; (4) is a causal 
+driver for the movement from the farm to the factory.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_2JIZL7C8" class="item journalArticle">
+			<h2>The "conflict volcano": methodological proposition for conflict analysis</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Temirkulov</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/94ce0b93e1f454126b079f072044192eb7cb2800">https://www.semanticscholar.org/paper/94ce0b93e1f454126b079f072044192eb7cb2800</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>6</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>99-115</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Aggression, Conflict and Peace Research</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2014</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1108/JACPR-08-2013-0017">10.1108/JACPR-08-2013-0017</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Purpose – The purpose of this paper is to suggest to the 
+conflict study scholars a new instrument – the “conflict volcano” that 
+could be an effective and appropriate tool for conflict analysis. 
+Design/methodology/approach – The “conflict volcano” model was designed 
+as a qualitative method for conflict analysis with a focus on cause 
+analysis. It was developed on the basis of “conflict tree” which 
+underwent modifications. Findings – The benefit of the “conflict 
+volcano” is that it covers all aspects of conflict starting from root 
+cause to catalysts and can reveal a wide range of causes: material, 
+immaterial, institutional. It clearly frames factors; this helps 
+practitioners to determine what should be considered as causes and 
+effects. Moreover, the “conflict volcano” reflects major theoretical 
+representations of the conflict and its aspects. While the “conflict 
+volcano” model can study conflict phases from latent until open 
+violence, it cannot reflect the dynamic of conflict and cannot 
+demonstrate its evolu...</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_QLIDX4KS" class="item journalArticle">
+			<h2>The Absolute - Relative Deprivation Dichotomy in Estimating 
+Variations in Reaction to Inequality: Comparing Antecedents of 
+Collective Action among Disadvantaged Groups</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>K. D. Ige</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/82a57994bc38d870f45056c2c0c3d7fa53f27814">https://www.semanticscholar.org/paper/82a57994bc38d870f45056c2c0c3d7fa53f27814</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>39</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>101 - 87</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Social Sciences</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2014</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1080/09718923.2014.11893272">10.1080/09718923.2014.11893272</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Abstract The conceptualization of poverty lines has often 
+relied on the absolute measure of deprivation. However, scholars have 
+for long agreed that feelings of injustice accompanying experiences of 
+deprivation becomes active when such experiences are negatively compared
+ with similar others. This sort of analysis presumes that absolute 
+deprivation itself is not a sufficient condition for frustration. This 
+study compares the reaction of a sample of low income urban dwellers 
+(n=383) on indices of absolute and relative deprivation to determine 
+which measure better predicts respondents’ willingness to engage in 
+collective action as a result of deprivation and actions they recently 
+participated in. The results of the study showed that neither construct 
+predicts willingness to embark on collective action or actual action. It
+ was therefore recommended that Social Movement organizations willing to
+ foster change should emphasize more on changing structural conditions 
+and resources for mobilization rather than the victim’s feelings or 
+experiences of deprivation.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_VXHIGTSB" class="item journalArticle">
+			<h2>The impact of automation on employment: just the usual structural change?</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>B. Vermeulen</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jan Kesselhut</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Pyka</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>P. Saviotti</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/a987462c9fa1eb94868790b3fc425f98f3e8fc36">https://www.semanticscholar.org/paper/a987462c9fa1eb94868790b3fc425f98f3e8fc36</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>10</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>1661-1688</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Sustainability</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.3390/SU10051661">10.3390/SU10051661</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>We study the projected impact of automation on employment in 
+the forthcoming decade, both at the macro-level and in actual (types of)
+ sectors. Hereto, we unite an evolutionary economic model of 
+multisectoral structural change with labor economic theory. We thus get a
+ comprehensive framework of how displacement of labor in sectors of 
+application is compensated by intra- and intersectoral countervailing 
+effects and notably mopped up by newly created, labor-intensive sectors.
+ We use several reputable datasets with expert projections on employment
+ in occupations affected by automation (and notably by the introduction 
+of robotics and AI) to pinpoint which and how sectors and occupations 
+face employment shifts. This reveals how potential job loss due to 
+automation in “applying” sectors is counterbalanced by job creation in 
+“making” sectors as well in complementary and quaternary, spillover 
+sectors. Finally, we study several macro-level scenarios on employment 
+and find that mankind is facing “the usual structural change” rather 
+than the “end of work”. We provide recommendations on policy instruments
+ that enhance the dynamic efficiency of structural change.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_EBBZB4JX" class="item journalArticle">
+			<h2>The Power Resource Theory Revisited: What Explains the Decline in Industrial Conflicts in Sweden?</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Jakob Molinder</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Kerstin Enflo</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Karlsson</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c0ad7f0412215f1422e852c7d76241f2a0b6f37c">https://www.semanticscholar.org/paper/c0ad7f0412215f1422e852c7d76241f2a0b6f37c</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Economic History eJournal</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>This paper revisits the Power Resource Theory by testing one 
+of its more influential claims: the relation between the strength of the
+ labor movement and the reduction of industrial conflicts. Using panel 
+data techniques to analyze more than 2,000 strikes in 103 Swedish towns 
+we test whether a shift in the balance of power towards Social 
+Democratic rule was associated with fewer strikes. The focus is on the 
+formative years between the first general election in 1919 and the 
+famous Saltsjobaden Agreement in 1938, the period when Sweden went from a
+ country of fierce labor conflicts to a state of industrial peace. The 
+spatial dimension provides new possibilities to test the theory. We find
+ that Social Democratic power reduced strike activity, but only in towns
+ where union presence was strong. Powerful unions in themselves did not 
+reduce local strike activity. On the contrary, we find that the rise of 
+the Social Democratic Party in municipal governments offset about 45 
+percent of the estimated effect of growing union presence on industrial 
+conflicts. We do not see any significant tangible concessions in terms 
+of increased social spending by local governments after a left-wing 
+victory as predicted by Power Resource Theory. Instead the mechanism 
+leading to fewer strikes appears to be related to corporatist 
+explanations.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_RQZ673VN" class="item journalArticle">
+			<h2>The relations of electricity to steam and water-power☆</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>C. Emery</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/9484444a18bc7c016f8eefd2f3e9105ab66ab504">https://www.semanticscholar.org/paper/9484444a18bc7c016f8eefd2f3e9105ab66ab504</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>142</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>165-186</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of The Franklin Institute-engineering and Applied Mathematics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>1896</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1016/S0016-0032(96)90229-X">10.1016/S0016-0032(96)90229-X</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_AJUBQSEJ" class="item journalArticle">
+			<h2>The Rise of the Radical Right in Sweden : Consequences for Political Selection ∗</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Ernesto Dal Bó</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>F. Finan</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Olle Folke</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Persson</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Johanna Rickne</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/655456ee19663da0fee41f5e140f846a168d8c53">https://www.semanticscholar.org/paper/655456ee19663da0fee41f5e140f846a168d8c53</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>We study changes in Sweden’s political class during the rapid 
+rise of the Sweden Democrats, a radical right party that went from being
+ of negligible importance in 2006 to the third largest party in 2014. We
+ associate the growth in support for the Sweden Democrats to a series of
+ policy reforms in 2006 that led to a significant widening of the income
+ gap between those robustly attached to the labor market (the “core” 
+workers) and those with precarious attachment (the “non-core,” including
+ primarily the sick and the non-stably employed). We show that the 
+Sweden Democrats grew by supplying politicians that closely resemble the
+ population mix of core vs non-core, while the mainstream parties 
+maintained a “product-line” of mostly high-earning core members of the 
+labor force. At the same time, the Sweden Democrat candidates have less 
+educational attainment, and less experience in politics and the public 
+sector. Thus, the growth of the Sweden Democrats increased descriptive 
+representation of the economically disenfranchised, but did so at the 
+cost of lowering the average level of policy expertise in the political 
+class.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_ET9QBN6U" class="item journalArticle">
+			<h2>The role of civil society groups in conflict resolution in Nigeria</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>S. Mudasiru</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Moshood</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/b64db6e6719cbbd95c1a5e2c3c1a62f5bb903b07">https://www.semanticscholar.org/paper/b64db6e6719cbbd95c1a5e2c3c1a62f5bb903b07</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2017</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.31920/2050-4950/2017/V6N1A3">10.31920/2050-4950/2017/V6N1A3</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_JNXRQHRP" class="item journalArticle">
+			<h2>The role of civil society in conflict resolution in the Democratic Republic of the Congo, 1998–2006: An appraisal</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Sadiki Koko</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/82c4875f3d24f78088d824f8ff02eb565a9126ce">https://www.semanticscholar.org/paper/82c4875f3d24f78088d824f8ff02eb565a9126ce</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>16</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>111-137</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>African Journal on Conflict Resolution</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.4314/AJCR.V16I1">10.4314/AJCR.V16I1</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>The second Congo war (1998–2003) was a very complex conf lict 
+that involved a vast array of actors, interests and issues. After a 
+stalemate was reached on the battlefield with none of the warring 
+parties able to achieve military victory, peace negotiations became the 
+only viable option to end the war. Civil society organisations were 
+directly involved in both the peace process and the subsequent 
+transitional dispensation designed to resolve the conf lict, providing 
+some sort of popular legitimacy to these two processes clearly dominated
+ by politico-military forces. The central argument of this article is 
+that while civil society involvement in the peace and transitional 
+processes was instrumental in resolving the conf lict underpinning the 
+second Congo war, it entrenched a legacy: the politicisation of the 
+civil society movement as inaugurated in the early 1990s. Indeed, 
+although ground-breaking, the direct involvement of civil society in the
+ management of transitional institutions contributed to weakening its 
+member organisations as many of their leaders were either directly 
+recruited into existing political platforms or simply decided to 
+establish their own political organisations and join active politics. 
+Keywords : civil society, conf lict resolution, second Congo war, civic 
+engagement, politicisation, Democratic Republic of the Congo</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_JGWW4RBB" class="item journalArticle">
+			<h2>Total Offset and Medical Net Discount Rates: 1981–2012</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>D. Schap</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Lauren Guest</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Kraynak</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/799727775fca887a8549e2f2bdd74b36f01daa7f">https://www.semanticscholar.org/paper/799727775fca887a8549e2f2bdd74b36f01daa7f</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>24</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>191-204</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Forensic Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2013</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.5085/JFE.24.2.191">10.5085/JFE.24.2.191</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Medical net discount rates (MNDRs) are calculated using 
+monthly data for the period 1981:01–2012:06 based on the medical 
+consumer price index and annual percentage yields based on 3-month, 
+6-month and 1-year U.S. Treasury Securities. Stationarity is tested for 
+each series and the results of time-series analytics through 2000:05 are
+ compared to previously published results (Ewing, Payne and Piette, 
+2001) that omitted Treasury Securities of shortest duration. The various
+ series are extended to 2012:06 and the time series properties are 
+examined. Although the results are mixed, they are more supportive of 
+total offset (i.e., a zero MNDR) than previously published research 
+findings have been.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_B67F9ELS" class="item journalArticle">
+			<h2>Training Requirements, Automation, and Job Polarisation</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>A. Feng</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Georg Graetz</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/b278be6eaac89ae35551be2b6c5a79693c0eaca6">https://www.semanticscholar.org/paper/b278be6eaac89ae35551be2b6c5a79693c0eaca6</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>130</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>2249-2271</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>The Economic Journal</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2020</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1093/ej/ueaa044">10.1093/ej/ueaa044</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>We analyse how job training requirements interact with 
+engineering complexity in shaping firms’ automation decisions. A model 
+that distinguishes between a task’s engineering complexity and its 
+training requirements predicts that when two tasks are equally complex, 
+firms automate the task that requires more training. Under plausible 
+conditions this leads to job polarisation, and in particular to 
+polarisation of employment by initial training requirements. US data 
+provide empirical support for the model’s implications. Training 
+requirements and a measure of engineering complexity account for much of
+ US job polarisation from 1980 to 2008.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_EPE533TA" class="item journalArticle">
+			<h2>Union Density and Political Strikes</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>J. Lindvall</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/35a68c3179c0c43b5a4a0cb1ef19da624bd41b82">https://www.semanticscholar.org/paper/35a68c3179c0c43b5a4a0cb1ef19da624bd41b82</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>65</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>539 - 569</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>World Politics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2013</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1017/S0043887113000142">10.1017/S0043887113000142</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>Why do trade unions organize antigovernment strikes in some 
+countries but not in others? This article argues that there is a 
+curvilinear relationship between union density and political strike 
+activity. Political strikes are rare in countries with low union 
+density, since effective protests require a basic level of 
+organizational capacity. They are also rare in countries with high union
+ density, since a government that faces a strong union movement has 
+powerful incentives to adjust its policies in order to avoid open 
+confrontation. But political strikes are relatively common in countries 
+with moderate levels of union density, since it is difficult for 
+governments and unions to find viable compromises when the strength of 
+the unions is not secure. The empirical part of the article estimates 
+the relationship between union density and the likelihood of political 
+strikes in two samples of advanced democracies.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_7XF658G6" class="item journalArticle">
+			<h2>Wage Net Discount Rates: 1981–2012</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>D. Schap</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>R. Baumann</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Lauren Guest</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/9535d9083eb05d3be477ad354c002e01043c27e2">https://www.semanticscholar.org/paper/9535d9083eb05d3be477ad354c002e01043c27e2</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>25</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>153-174</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Journal of Forensic Economics</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2014</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.5085/JFE-369R3.1">10.5085/JFE-369R3.1</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>The study explores time series properties of three wage net 
+discount rate series derived using interest rates based on 
+(alternatively) 1-year, 6-month and 3-month Treasury securities coupled 
+with wage growth rates, initially for the period from 1981:01 to 
+2012:06, then subsequently through 2012:12. Stationarity tests are run 
+on the full series and various sub-series to identify any portion of the
+ series on which reliable forecasting can be based. Initially no support
+ is found for the total offset hypothesis based on the full-time series 
+(but support is subsequently found for total offset when exploring 
+various data sub-series). Positive findings include that the three 
+trended wage net growth rate series for the entire period under study 
+are stationary, implying that reliable short-term forecasting of wage 
+net discount rates is possible based on each of the trended series. 
+Short-run forecasts based on the trended series are presented for 
+2012:07–2012:12 and compared to actual data in the period. Finally, the 
+three trended wage net discount rate series are re-examined for 
+1981:01–2012:12, with short-term forecasting equations presented. 
+Various sub-series of WNDRs are then explored in hopes of finding one or
+ more that may be stationary about a constant term. Additional testing 
+identifies three sub-series all ending 2012:12 with varying start dates 
+that have desirable stationarity properties. The sub-series starting 
+2007:11 is highly stationary, but peculiar, with an associated constant 
+WNDR that is negative and statistically different from zero; and the two
+ sub-series beginning 1990:12 and 1994:05 have stationary attributes, 
+yet possess constant terms that are slightly positive but not 
+statistically different from zero, thus providing modest support for the
+ total offset method.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:43 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:43 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_45ICA5TX" class="item journalArticle">
+			<h2>Wage strikes in 1880s America: A test of the war of attrition model</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>T. Geraghty</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>Thomas Wiseman</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/c52fdf71d32d3e7c85d9ec56fb8423f6906a9dab">https://www.semanticscholar.org/paper/c52fdf71d32d3e7c85d9ec56fb8423f6906a9dab</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>45</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>303-326</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>Explorations in Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2008</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1016/J.EEH.2007.12.003">10.1016/J.EEH.2007.12.003</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_UZ9VZ4MY" class="item journalArticle">
+			<h2>Wasserkraft: Zwischen roten Zahlen und grünen Ansprüchen. Bericht zum Seminar Wasserwirtschaft 2015 an der Uni Bern</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>R. Weingartner</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/d933b56ce4377cefa243ff34d84b6c7a69de67a6">https://www.semanticscholar.org/paper/d933b56ce4377cefa243ff34d84b6c7a69de67a6</a></td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2016</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.7892/boris.83671">10.7892/boris.83671</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:42 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+
+			<li id="item_2KHMHAKK" class="item journalArticle">
+			<h2>Who Benefited from Industrialization? The Local Effects of Hydropower Technology Adoption in Norway</h2>
+				<table>
+					<tbody><tr>
+						<th>Type</th>
+						<td>Journal Article</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>S. Leknes</td>
+					</tr>
+					<tr>
+						<th class="author">Author</th>
+						<td>J. Modalsli</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://www.semanticscholar.org/paper/2f71599c43fb840a3c8703d900958ab41cbd91a7">https://www.semanticscholar.org/paper/2f71599c43fb840a3c8703d900958ab41cbd91a7</a></td>
+					</tr>
+					<tr>
+					<th>Volume</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Pages</th>
+						<td>null</td>
+					</tr>
+					<tr>
+					<th>Publication</th>
+						<td>The Journal of Economic History</td>
+					</tr>
+					<tr>
+					<th>Date</th>
+						<td>2018</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1017/s0022050719000743">10.1017/s0022050719000743</a></td>
+					</tr>
+					<tr>
+					<th>Abstract</th>
+						<td>This paper studies the impact of the construction of 
+hydropower facilities on labor market outcomes in Norway at the turn of 
+the twentieth century (1891–1920). The sudden breakthrough in hydropower
+ technology provides a quasi-experimental setting, as not all 
+municipalities had suitable natural endowments and the possible 
+production sites were often located in remote areas. We find that 
+hydropower municipalities experienced faster structural transformation 
+and displayed higher occupational mobility. We interpret this as 
+evidence that this early twentieth-century technology was skill biased, 
+as workers in the new skilled jobs were recruited from a broad segment 
+of the population.</td>
+					</tr>
+					<tr>
+					<th>Date Added</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+					<tr>
+					<th>Modified</th>
+						<td>12/7/2022, 2:43:41 PM</td>
+					</tr>
+				</tbody></table>
+			</li>
+
+		</ul>
+	
+</body></html>
