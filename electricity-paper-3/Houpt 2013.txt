@@ -1,0 +1,1967 @@
+ORIGINAL PAPER
+Relative deprivation and labour conflict during Spain’s
+industrialization: the Bilbao estuary, 1914–1936
+Stefan Oliver Houpt • Juan Carlos Rojo Cagigal
+Received: 9 October 2012 / Accepted: 18 August 2013
+ Springer-Verlag Berlin Heidelberg 2013
+Abstract What drove social conflict in Spain’s industrial areas in the period
+before the Spanish Civil War? This paper is concerned with contrasting the determinants of working-class conflict in northern Spain at the beginning of the twentieth
+century. Our hypothesis is that the key determinant of conflicts in emerging
+industrial areas during the interwar period was the struggle to obtain satisfactory
+family income in a context of combined high price fluctuation, unemployment and
+economic boom and bust. We suggest two new ways to decipher how economic
+factors interact with labour conflict. We introduce the family as the relevant income
+unit when considering wage struggles and relative deprivation. And secondly, we
+study the reactions to short-term variations of income on families by using monthly
+rather than quarterly or annual data.
+Keywords Strikes  Relative deprivation  Industrialization  Labour
+relations  Interwar period  Spain
+JEL Classification D19  E31  J52  J53  N34
+This article seeks to discern the logic behind the blazes of social disruption in one of
+Spain’s rapidly progressing industrial areas during the interwar period. The
+succession and the failure of different systems of labour relations in establishing
+social dialogue and providing institutions to resolve conflicts surely contributed to
+the increasing social tension before the outbreak of the Spanish Civil War. We
+propose, however, that a closer understanding of the economic factors involved in
+these labour conflicts may also enhance our perception of how social conflicts came
+S. O. Houpt (&)  J. C. Rojo Cagigal
+Universidad Carlos III de Madrid, Getafe, Madrid, Spain
+e-mail: stefan.houpt@gmail.com
+123
+Cliometrica
+DOI 10.1007/s11698-013-0102-6
+to be. Specifically, this paper reclaims the importance of material economic
+conditions in determining labour conflict in the period leading up to the Spanish
+Civil War. Even though resource-accumulation and collective-action theories and
+political-exchange approaches have attempted to play down, in some cases even to
+question, the role of economic factors as causes of labour conflictivity (Shorter and
+Tilly 1974; Snyder 1977; Tilly 1978; Shalev 1980), we consider material well-being
+too important to relegate as something secondary.
+We suggest two new ways to decipher how economic factors interact with labour
+conflict. We introduce the family as the relevant income unit1 when considering
+wage struggles and relative deprivation.2 And secondly, we study the reactions to
+short-term variations of income on families by using monthly rather than quarterly
+or annual data. We hereby contend that families were on tight budgets and that price
+and income variations put important strain on their nutrition, health and well-being
+and thereby led to a higher propensity to labour unrest.
+Our analysis will concentrate on strikes, one of the key manifestations of labour
+conflict, and the Bilbao estuary will constitute our geographical field of research. To
+paraphrase Cohn (1993: 8), we concentrate on a closed industrial area with
+comparable workers with comparable classifications and a comparable institutional
+framework, using data with consistent and well-understood recording conventions.
+Furthermore, the economic dynamics of a single industrial space are far easier to
+grasp intellectually than are the parallel dynamics for a large and diverse economy.
+As an emerging economic area since the 1870s, Bilbao developed a highly
+concentrated industrial centre, becoming the most important heavy industry district
+in Spain. This scenario constitutes an integrated and relatively isolated industrial
+setting which, together with the use of monthly rather than annual data, reveals
+different patterns of economic and social relations than those obtained with
+aggregated national data.3
+Many scholars of the early twentieth century will share Dick Greary’s perception
+of the First World War as the watershed, a traumatic break with the politics of the
+1 Kuznets (1976: 1) already insisted on using families as basic units of income measurement when
+addressing distribution. More recently, the standard of living debate has focussed on family income
+Humphries (1977), Horrell and Humphries (1992), Allen (2001, 2009, 2013), Humphries (2010). Rothbart
+(1989) insists that ‘the wage struggle (…) cannot be understood simply as a struggle over the level of pay
+for the performance of work, since a major justification for higher wages has been the argument that the
+wage of adult males should be determined by the subsistence needs of a family’.
+2 We define relative deprivation as the judgment that one is worse off compared to other groups and/or
+compared to the past. This judgment may lead to frustration and collective action. Townsend (1974: 15)
+argued that ‘individuals, families and groups in the population can be said to be in poverty when they lack
+the resources to obtain the types of diets, participate in the activities and have the living conditions and
+amenities which are customary, or are at least widely encouraged or approved, in the societies to which
+they belong’. Therefore, poverty is the guiding concept, and we would define ‘relative deprivation’ as the
+perception of poverty. At the same time, collective action and/or social conflict would be a reaction to
+relative deprivation. For the recent evolution of deprivation research, see Gordon (2006).
+3 Ritschl et al. (2008). As Morys and Ivanov (2011: 6) have summarized, historical National Accounts
+are normally constructed with an eye for the level rather than the volatility; this (understandable)
+preference determines interpolation techniques which can lead to serious differences in volatility between
+the reconstruction and the true unknown series. Fortunately the disaggregate series which maintain the
+original volatility are often abundant for historical periods.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+pre-war ancien re´gime. For most of Europe, the war brought hardship to the
+working class by way of food shortages, inflation and the massive influx of new
+labour into the industrial sectors.4 The post-war period was one of price fluctuations,
+strong economic cycles and unemployment. This changing economic environment
+produced recurrent income shocks which deprived living conditions, making
+workers more prone to unrest, a situation very similar to that Sharp and Weisdorf
+(2012) have found for France’s workers prior to the French Revolution.
+Although the analysis is limited to only one of the major industrial centres in
+Spain at the time, at the very least, it opens the question whether similar dynamics
+existed in other urban industrial areas at the time, i.e., if there was a generalized
+urban industrial deprivation process that may be considered one of the causes of the
+Spanish Civil War. At the same time, using monthly disaggregate series to study the
+impact of the interwar economic fluctuations is an innovative approach. Oscillations
+and variations have not been smoothed out, higher data frequency allows for subperiod analyses, and short-term dynamics otherwise hidden can be revealed. This
+may be an approach to consider in other countries with strong social conflicts in this
+period.
+The rest of the paper is structured as follows. The next section of the paper
+introduces a general background on strikes and the following an overview of strikes
+in Bilbao, Biscay (the greater area surrounding) and Spain. Section 3 presents the
+data series we have collected on strikes and economic factors. This is followed by a
+detailed and concise summary of labour relations over the period we are examining.
+Understanding the changing labour-relation regimes is essential for inferring the
+results from the empirical contrasts. Sections 5 and 6 present the strike model, the
+statistical exercises for the impact of economic factors on strike frequency, and
+discuss the results. The exercises consider business profits, real family incomes and
+unemployment. In order to check the robustness of our findings, property crime and
+political violence are added to test whether these alternative expressions of social
+disruption are also correlated with variations in material living conditions. We close
+with a presentation of our conclusions.
+1 Strikes and the determinants of strikes
+An economic strike is a suspension of production while workers and employers
+argue about how to divide the surplus from their relationship (Kennan 2008: 1).
+Strikes are costly disputes. In a two-agent model of negotiation in which each party
+was rational and well-informed, each would know the other party’s concession
+curve and could agree on distribution of surplus without the waste implied by an
+output loss through stoppage. But despite the possibility of avoiding this waste,
+strikes have been commonplace in industrialized countries for the last 150 years.
+Hicks (1932) was one of the first authors to articulate a theory about why strikes
+occur, concluding that most of them result from faulty negotiation between workers
+4 For a summary of European labour relations during the First World War and the 1920s, see Greary
+(1981: 134–143).
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+and employer. At a later point, Ross (1954) introduced a political and institutional
+approach, emphasizing the role played by other agents like firm managers and
+unions. He stressed the divergent interests existing between trade union leaders—
+interested in the survival and growth of the organization—and rank-and-file union
+members. Ross also analyzed the relationship between strikes and unions, pointing
+out that strikes are only a temporary withholding of labour, whereas a union is a
+permanent association of workers (Kaufman 1982: 477). Over the course of time,
+strikes as ‘weapons of labour’ would have fallen into the hands and control of
+business unionism. Ashenfelter and Johnson (1969) formalized Ross’s institutional
+wage bargaining model, addressing that strikes are more likely the result of agency
+problems and the logic of collective action.5
+Economists have sought regularities between the economic cycle and the
+frequency, duration and depth of strikes. For the late nineteenth and early twentieth
+century, studies have shown that strikes are more frequent when general economic
+conditions have been good. Strike incidence has been found to be pro-cyclical and
+strike duration countercyclical to the business phase (Card 1990; Crampton and
+Tracy 2003; Kennan 2008).6 Besides their economic nature, strikes may also be
+called for political reasons. Theories of strikes based on economic factors tend to
+have lesser explanatory power in those settings where strikes are politically
+motivated (Cohn and Eaton 1989). In the late nineteenth and early twentieth
+century, especially after 1917, strikes have often been considered a measure of the
+threat of revolution. Among various forms of social unrest, such as riots,
+demonstrations and social disorder, strikes are a potent menace to a regime
+because they interfere with the functioning of the capitalist economic system on
+which the regime is based (Kim 2007). They are also a powerful mechanism of
+social mobilization.
+In any case, labour conflict and strikes in particular are complex multi-causal
+phenomena. Industrial workers are not a homogeneous class but a diverse group
+under constant recomposition, as Vigna (2012) has pointed out recently for France.
+Workers and employers develop complex and diachronic sequences of interaction.
+The different approaches taken by economists, sociologists and political scientists
+are an evidence of its multi-factorial and intricate nature. This diversity was
+succinctly summarized by Franzosi (1995: 7–11), who identified at least seven
+different theoretical approaches: business-cycle theories, which concentrate on the
+relationship between business cycles, the bargaining position of labour and strikes;
+relative-deprivation approaches, which sustain that deterioration of economic living
+conditions and increasing social injustice are at the heart of conflict; resourceaccumulation and collective-action theories, which suggest that collective action
+depends on a group’s capacity to mobilize resources and organize; institutional
+theories, which propound that strike intensity is determined by the calendar of
+collective contracts, especially in the case of industry-wide or nationwide
+5 For a summary of strike theories, see Friedman (2009).
+6 However, there are studies which contradict a pro-cyclical pattern of strike incidence. For example,
+Ingram et al. (1993) for the British manufacturing sector in the 1980s; or more recently Devereux and
+Hart (2011) for the British engineering sector between 1920 and 1970.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+bargaining; political-exchange approaches, which concentrate on the mechanisms
+used by labour-oriented social-democratic parties in order to achieve a more
+favourable distribution of resources; theoretical frameworks related to class conflict,
+which view long-term immiseration as the main determinant of rising labour
+conflictivity; and theories of modernization, which concentrate on the breakdowns
+of social groups produced by rapid industrialization and urbanization.7 Among these
+theoretical approaches, we consider that changes in workers’ economic conditions
+and wage bargaining were the main motivations of labour conflictivity during the
+interwar period, as we explore in the next section.
+2 Labour conflict determined by economic factors? Our hypothesis
+and the setting for contrast
+The interwar period in Europe was an age of political and social turmoil. Most of the
+countries experienced unrest and tensions during those years, Spain being among
+the more unstable. Although Spanish economy benefited from neutrality during the
+First World War, the wartime expansion produced imbalances and rapid economic
+changes with exacerbating social tensions. These tensions, kindled by the success of
+the Russian Revolution, produced revolutionary outbursts between 1917 and 1919.
+Growing working-class unrest and the post-war economic crisis of 1921 accelerated
+the decay of the liberal political regime (1876–1923), which collapsed giving way to
+military rule from 1923 to 1929. The dictatorship of General Primo de Rivera was
+able to produce noteworthy economic growth. Applying a mixed policy of
+repressing (anarchist trade unions) and coopting (socialist trade unions), and
+introducing a corporatist framework of labour relations similar to that of
+Mussolini’s regime in Italy, the dictatorship managed to keep the working-class
+movement under control. However, social conflict surged again after the coming of
+a democratic Second Republic (1931–1936) which freed the forces that had been
+repressed during dictatorship and now resurged in the context of the world
+economic depression. The interwar period in Spain ended with a gruelling civil war
+between 1936 and 1939.
+Our hypothesis is that the key determinant of conflicts in emerging industrial
+areas during the interwar period was the struggle to obtain satisfactory family
+income in a context of combined high price fluctuation, unemployment and
+economic boom and bust. Following Rothbart (1989) on ‘homes are what any strike
+is about’ and Humphries (1977) on the fragility of working-class families during
+industrialization, we seek to contrast whether labour conflict in a time of important
+economic fluctuations was determined by the subsistence needs of families. So, well
+aware of shortcomings, our analysis will concentrate on wage bargaining, relative
+deprivation in families, profits and unemployment as the valid elements to explain
+labour conflictivity during the interwar period. We seek to find labour conflicts
+driven by economic factors.
+7 Apart from Franzosi, for an additional summary of strike theories see Friedman (2009).
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+In light of the weak evidence for the relevance of economic variables in
+explaining strike frequency found by Silvestre Rodrı´guez (2003) using aggregate
+data for all of Spain, we would like to contrast the importance of economic change
+and material necessity in a more closely defined geographical and temporal setting.
+Such findings could indicate that a regional approach concentrated on the large
+industrial nuclei of Barcelona, Madrid, Valencia and Bilbao may reveal very
+different patterns from those obtained with aggregate macroeconomic data and that
+much of the cause–effect mechanism may have been smoothed out by aggregation
+and low-frequency data.
+What makes the Bilbao estuary a particularly interesting case is its speed and
+scale of structural change. Together with Catalonia, Biscay (the administrative
+region in which Bilbao is situated) was an industrial forerunner and would be the
+only other province on the Iberian Peninsula to reduce the percentage of labour
+employed in agriculture to less than 50 % before the end of the nineteenth century
+(Soto Carmona 1989). Biscay had gained higher access to Spanish markets in 1829
+when its customs were shifted from its regional borders with the rest of Spain to its
+own coast, i.e. it became part of the Spanish common market. The 1869
+liberalization of mining and commerce opened its vast iron ore resources to
+international markets and foreign investors, such as Great Britain, Belgium, France
+and Germany. Ore trade with European iron and steel centres established the bridges
+for the transfer of technical equipment and skills, and these ties provided the
+markets competition and the high-quality coal needed to transform Bilbao into the
+iron and steel centre of Spain. Between 1876 and 1936 the Bilbao region developed
+from an iron ore mining district into the most important concentration of heavy
+industry in Spain.8
+Bilbao was a small geographic area in which a fairly rapid process of
+industrialization took place in an isolated form. The physical constraint of social
+conflicts to a local level was predominant in the political arena of the time (Fusi
+1975). Regions and industrial areas in Spain tended to have specific characteristics
+regarding trade unions, employers’ strategies and conflict intensity. The different
+patterns of economic development and the mountainous condition of the Iberian
+Peninsula explain this lack of integration. In the case of Bilbao, there were no
+competing industrial loci within a reasonable distance. The closest industrial centre
+was in Barcelona, some 600 km away. As one of Spain’s major ports, it had wellintegrated commodity markets and, as a consequence of the late nineteenth-century
+iron-ore-mining boom, it had well-functioning labour markets. In short, the Bilbao
+estuary constituted a quite isolated setting in which contagion was not a common
+source of unrest.
+Industrialization and structural change accelerated during the first third of the
+twentieth century. In the province of Biscay, the working population employed in
+industrial activity grew from 32.6 % in 1900 to 43.1 in 1920 and 47.0 in 1930; the
+service sector grew from 25.7 to 33.3 and 31.5 % (Ola´barri 1978: 447). As part of
+8 For the history of Basque industrialization, see Harrison (1983), Escudero (1998) and Gonza´lez Portilla
+(2001). For a general account on Spanish industrialization during the interwar period, see Houpt and Rojo
+Cagigal (2013).
+S. O. Houpt, J. C. Rojo Cagigal
+123
+the process of industrialization, there were also important demographic changes in
+the area being examined. According to population censuses, the population of the
+Bilbao estuary grew from 192,747 in 1910 to 242,641 in 1920 and on to 304,364 in
+1930, implying annual population growth rates of around 2.3 %. Over the first third
+of the century, Bilbao was the fastest growing urban agglomeration in Spain (Reher
+1994). The major immigration wave had already occurred over the last three
+decades of the nineteenth century, and net migration to the estuary during the first
+third of the century slowed down considerably. Between 1920 and 1935, over 85 %
+of the population growth was generated by natural growth. Over that same period,
+93.7 % of the population lived in family households. Over the early twentieth
+century, families were evolving from extensive to nuclear families and at the same
+time to predominantly male-breadwinner families with an increasing number of
+children. And at the same time, over 70 % of the active population remained
+unskilled day workers.9 Therefore, throughout the period of analysis, the majority of
+working-class families lived in a nuclear male-breadwinner setting with an
+increasing number of children. For the predominantly unskilled-labour households,
+this implied a high vulnerability to changes in real income. The lack of extensive
+family safety nets, heavily disputed alternative incomes in times of crises and no
+foraging to fall back on are some reasons for this.
+3 Data series on strikes and economic factors
+In order to examine labour unrest and its determinants in detail, we have been able
+to construct a very detailed monthly database for the Bilbao estuary over this period.
+One of the series we use is a recently calculated cost-of-living series for a
+breadwinner family in Bilbao’s iron and steel industry.10 This series has been
+constructed with monthly price data from the municipal statistical bulletin. The
+basket is designed to provide the energy requirements of a representative fivemember family taking into account diet habits and diet transformations. The
+monthly series of real incomes is calculated from average money incomes for
+workers of the Baracaldo factory of Altos Hornos de Vizcaya [AHV].11 We have
+9 Population in the Bilbao estuary has been thoroughly examined by a group of demographers lead by
+Gonza´lez Portilla (2001): 117, 130, 278–9, 396 and 403. Based on municipal statistics, only 9.4 % of
+married women worked in 1900 and by 1935 this had decreased to 3.7 % (Garcı´a Abad and Ruzafa
+Ortega 2009: 304). For a summary on how the male breadwinner nuclear family evolved see Rojo Cagigal
+and Houpt (2011: 11).
+10 The index is based on seventeen basic consumption goods’ price series and calculates a gradually
+changing consumption basket reflecting variations in consumption patterns during the 1914–1936 period
+with a gradual diet shift in food groups towards fresher products. A typical working-class family of five
+members constitutes the consumption and production unit of analysis. For a detailed description of the
+index calculation see Rojo Cagigal and Houpt (2011). For living standards in Biscay, see Pe´rez
+Castroviejo (1992); an up-to-date account of the debate about the evolution of living standards in Spain
+and France can be found in Chastagnaret et al. (2010).
+11 Monthly data was extracted from Altos Hornos de Vizcaya (1914–1923). Annual averages have been
+taken from Gonza´lez Portilla (1984): 74 and 85). This company was created by merger of two of the
+leading iron and steel company with a smaller tinplate factory in 1901. They employed 5,905 workers in
+1916 and 8,300 in 1930, approximately one third of the workers employed in the iron and steel industry.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+contrasted these incomes with the maximum and minimum money wages registered
+by the municipal statistics. The monthly money incomes at AHV are within or
+above these bands over the complete period analysed. If any, this introduces upward
+income bias, as AHV workers were considered highly paid workers at the time.
+Unemployment rates were not registered for this period. We have proxied them
+with inverse nuptiality rates. The choice of this proxy is motivated by the close
+correlation found by Southall and Gilbert (1996) for England and Wales, and Kirk
+(1960) for the interwar period in the United States.12 Wales, England and the United
+States were industrial forerunners and geographical areas which showed strong
+negative correlation between nuptiality rates and unemployment during industrialization; their studies include regions concentrating heavy industry. Bilbao, Wales,
+England and USA also share a common demographic pattern: the nuclear malebreadwinner family. This further sustains similar nuptiality behaviour in response to
+income variations. In Wales, GB and USA there are empirical data series for testing
+the correlation between both variables. In the case of Spain, we lack unemployment
+data. But outdoor poor relief, for which we have data and which should be highly
+correlated with unemployment, moves in unison with nuptiality rates. This
+strengthens our conviction that nuptiality rates proxy unemployment well.
+Nuptiality rates not only reflect the marriage postponement due to unemployment
+but also due to growing underemployment and to any other reduction in earnings
+and income. Therefore, we use the inverse marriage rate as a proxy for
+unemployment and underemployment over this period.13
+Business profits and an index of business perspectives have been used to measure
+the variation of economic surplus over time. Monthly business profits can be
+approximated for Altos Hornos de Vizcaya between 1914 and 1921 by calculating
+markups for each product produced and multiplying those by the amount of each
+product sold. We have also used the monthly stock-market index for Bilbao which is
+an expression of the present and future firm-value based on information on its
+present profitability. Monthly strike frequency has been collected from works of
+Lazcano (1950) and Sanfeliciano Lo´pez (1990). Both series are based on exhaustive
+scrutiny of local newspapers. As Lazcano’s series becomes less reliable towards the
+end of the period, Sanfeliciano’s series which registers only the strikes in the 1930s
+will be used for the latter part.
+As a first approximation to the relationship between variations in workers’ family
+incomes and labour conflict, we can use the annual data on strikes provided by
+Ola´barri (1978: 498) to contrast the coincidence between the number of strikes and
+tensions on family budgets. Figure 1 shows the twelve-month moving average of
+12 ‘If marriage and trade-union unemployment corresponded closely in timing and, in some senses, in
+amplitude of variation, it is tempting to treat both as proxies for the unemployment,’ Southall and Gilbert
+(1996: 55).
+13 Friedlander found that from 1855 to 1901 unemployment and marriage rates were negatively
+correlated in England and Wales. During the entire period, for each unemployment peak in a given year
+there was a trough in the marriage rate and vice versa. His regression analysis confirmed that the change
+in unemployment levels explained nearly 50 % of the variance in marriage rates (Friedlander 1992:
+32–33). Kirk also found an inverse correlation between unemployment and nuptiality for the United
+States, stronger during the interwar period that after the Second World War (Kirk 1960).
+S. O. Houpt, J. C. Rojo Cagigal
+123
+dearth or abundance in family budgets, i.e. the percentage difference between real
+workers’ income and the lower bound cost of living. Minus 20 % indicates that the
+wage is unable to buy 20 % of the family food basket and positive 10 % indicates
+that 10 % of the workers’ income is still available after buying the family food
+basket. Families’ ability to make ends meet follows a sharp and constant worsening
+throughout the First World War and the immediate post-war years up to 1920; a
+steady and rapid recovery between 1921 and 1923 is followed by gradual
+improvement up to 1930. A second sharp decline is observed between 1930 and
+1931, followed by stability and a slow recovery between 1932 and 1934, and further
+stability in 1935.14 When confronted with data on labour conflicts, measured here in
+the number of annual strikes, we find a close correlation. Strikes increase
+vehemently when average nominal family incomes worsen to minimum sustainability, i.e. they are not able to acquire the amount of calories required for work
+energy and basic vital needs.15 This is the case in 1917, when the situation escalated
+into a revolutionary general strike, but also in 1919–20, when nominal earnings
+came close to this lower bound anew, and briefly in 1922, when employers were
+trying to force money wages back down to pre-war levels. The decrease in total
+earnings between 1929 and 1931 again seems correlated with increasing conflict.
+Over this period, breadwinner families had numerous occasions on which their
+families were deprived and these coincide with moments of anger as expressed by
+8 10,0
+26,0
+53
+36
+117 124
+17
+27 26
+6
+15
+7
+17
+12
+3
+39
+14 12
+7
+12
+1
+10
+100
+10% 1000
+0%
+10%
+20%
+30%
+40%
+Jan 14
+Jan 15
+Jan 16
+Jan 17
+Jan 18
+Jan 19
+Jan 20
+Jan 21
+Jan 22
+Jan 23
+Jan 24
+Jan 25
+Jan 26
+Jan 27
+Jan 28
+Jan 29
+Jan 30
+Jan 31
+Jan 32
+Jan 33
+Jan 34
+Jan 35
+Fig. 1 Annual number of strikes (rhs log scale) and 12 month moving average of difference between real
+worker income and minimum price of family food basket (lhs in percentages). Source Strikes: Ola´barri
+(1978: 498); prices for CPI: Boletı´n Municipal de Estadı´stica—Bilbao; real worker’s incomes: Altos
+Hornos de Vizcaya (1914–1923) and Gonza´lez Portilla (1984: 75 and 85)
+14 The renewed worsening in 1936 is not shown on the graph.
+15 Dasgupta and Ray (1987), and Ray (1998), especially chapter 8 on poverty and nutrition and Sect. 13.4
+on poverty, nutrition and labour markets. On energy requirements and work energy, see also Consolazio
+et al. (1961), FAO (2001), Harris (2004), and Floud et al. (2011).
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+labour conflicts. At the same time, conflict decreased as earnings situated above
+costs of living over most of the 1920s until 1930.16
+The figure we present here is no more than a rough approximation. But the series
+for real earnings and cost of living for an average family are based on very detailed
+data proceeding from single reliable sources. The monthly data introduce
+seasonality. This adds an important aspect to the issue of nutrition. Studies on
+energy requirements in present-day agricultural environments in East Asia have
+shown that during high-workload seasons land workers consistently consume more
+energy than they take in. This is sustainable during short intervals of high
+workloads, but energy reserves must be built up and recovered during idler seasons
+of the year.17 Quite differently, factory work does not allow for inter-annual energyreserve compensation. Energy requirements are constant year-round and workers
+will be sensitive over very short periods to sudden falls in real income. Families can
+compensate for this to some point, by having the remaining members of the family
+consume less.18 But in the mid-term, this would have negative effects on their health
+and family well-being.19
+According to our previous analysis on living conditions, real family incomes
+worsened between January 1914 and December 1919. They improved from January
+1920 to April 1930, and from then on worsened until August 1932. They recovered
+to the levels attained in the mid-twenties by May 1935 but started a downward hike
+from then on. This is visualized in Fig. 2 with welfare ratios, i.e. the number of
+times a family can buy its basic consumption bundle which provides the necessary
+0,6
+0,7
+0,8
+0,9
+1
+1,1
+1,2
+1,3
+1,4
+1,5
+ene 14
+oct 14
+jul 15
+abr 16
+ene 17
+oct 17
+jul 18
+abr 19
+ene 20
+oct 20
+jul 21
+abr 22
+ene 23
+oct 23
+jul 24
+abr 25
+ene 26
+oct 26
+jul 27
+abr 28
+ene 29
+oct 29
+jul 30
+abr 31
+ene 32
+oct 32
+jul 33
+abr 34
+ene 35
+oct 35
+Fig. 2 Welfare ratios for Altos Hornos de Vizcaya steel worker’s families, 1914–1936. Source Rojo
+Cagigal and Houpt (2011)
+16 Short waves of strikes are possibly related to small downward adjustments in ‘real family incomes’
+during the late 1930s.
+17 Consolazio (1966), Schofield (1974), Guzman et al. (1984), and Payne and Lipton (1994).
+18 Guaranteeing the share of male breadwinners may have been a rational response, enabling the husband
+and father to remain in work and thus contribute to the well-being of the family as a whole. However, this
+meant that any shortfall would be imposed exclusively on the share of women and children. Humphries
+(2013).
+19 See Rojo Cagigal and Houpt (2011) for mortality, pawning and child-abandoning response to real
+income variations in the Bilbao estuary over this period.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+nutrition for basic body functions, maintenance and work. Some of these results are
+surprising, others expected. War and post-war economy deteriorated workers’ living
+conditions, dictatorship and right-wing democracy improved them, and left-wing
+democracy maintained or worsened standards of living for these workers.
+Figure 3 summarizes some characteristics of organized labour and strikes in
+Biscay (Bilbao and the administrative territory surrounding it) for the period we
+examine. The evolution of strikes declared in Biscay is very similar to that for Spain
+as a whole up to 1930. It shows a break in this year and initiates an inverse trend
+until 1935, which will be explained in the discussion of results. As Friedman (2007:
+28) has pointed out, strike activity is episodic, characterized by long periods of
+dormancy punctuated by sudden spurts of action, or strike waves. We can observe in
+this case the existence of two strike waves, the first one from 1918 to 1921 and the
+second one from 1931 to 1933. Average strike duration in Biscay remained below
+that of Spain throughout the period studied with the exception of 1 year.
+The Unio´n General de Trabajadores (UGT), a socialist trade union founded in
+1888, became the most important working-class organization in Biscay. A Catholic
+and Basque-nationalist trade union, Solidaridad de Obreros Vascos (SOV), founded
+in 1911, competed with UGT, although the socialists remained the leading
+organization of Biscayan working class through all the period.20 In Fig. 3, we can
+see that Biscay union membership in socialist UGT increased in levels during the
+First World War. But the important increase in UGT membership in all of Spain did
+Fig. 3 Spanish and Biscayan strikes, 1905–1936—a first look at similarities. Sources: Silvestre
+Rodrı´guez (2003: 75), Sanfeliciano Lo´pez (1990), de Larran˜aga (1977) and Ola´barri (1978: 446 and 498)
+20 The Confederacio´n Nacional del Trabajo (CNT), an anarchist and radical union founded in 1910, did
+not achieve a relevant position in Biscay, despite its dominance in other industrial regions such as
+Barcelona.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+not happen until the late twenties. UGT membership in Biscay continued growing
+over the 1920s and overall we find a close association between inflation and trade
+union membership.21
+Table 1 shows what we can discern about the causes of strikes. Only 32 % of the
+strikes registered through local press indicated their motivation. Of these, 60 %
+name wage increases as the principal cause of the conflict. This is the predominant
+strike cause up to 1922 and resurfaces somewhat between 1929 and 1931. Among
+the other reasons reported by newspapers, readmission of workers and improving
+working conditions add up to 24 % and support for other strikes or political
+motivations the remaining 16 %. Still there is a clear dividing line in 1922, in terms
+of wage issues being the main reason for calling strikes.
+Another interesting aspect of strikes is their seasonality. Griffin found that the
+seasonal movement of strikes is ‘in general determined by two elements, first the
+already-existing pattern of business, and second the greater capacity for resistance
+on the part of employees in the early summer and later summer as opposed to spring
+and winter. Here, as elsewhere, the weather shapes the affairs of men’ (Kennan
+1987: 1130). Perrot (1974: 111–12) expanded on Griffin’s idea: ‘the difficulties of
+daily life, for a working class barely living at a subsistence level, were greater
+during the winter—the greater necessities for such items as clothing, heating and
+better nutrition, the greater likelihood of illness’. Severe economic hardship, which
+the winter time typically brought to a much larger segment of the working-class
+population, reduced the collective resources at the disposal of workers and therefore
+their capacities to carry on strikes. We also find strong traces of summer seasonality
+in strike frequency in the data for Bilbao.
+Table 1 Causes of strikes in Biscay
+Registered
+strikes
+Percentage indicating
+causes (%)
+Of those indicating causes
+Primary cause wage
+increase (%)
+Primary cause
+others (%)
+1914–1916 44 55 88 13
+1917–1919 206 33 75 25
+1920–1922 168 18 70 30
+1923–1925 47 40 37 63
+1926–1928 36 6 0 100
+1929–1931 56 48 33 67
+1932–1934 31 55 18 82
+Total 588 32 60 40
+Others include 24 % for readmission of workers or improving working conditions and 16 % in support of
+other strikes or political motivations
+Sources Lazcano (1950) and Sanfeliciano Lo´pez (1990)
+21 Ashenfelter and Pencavel (1969) find a strong causal relation between growing trade union
+membership and changes in price levels as a measure of changes in real workers’ income. More recently
+Geraghty and Wiseman (2011) have found a high correlation between both union density and inflation
+rates with compromise outcomes.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+Silvestre Rodrı´guez (2003) has examined annual strike data for the whole of
+Spain over the first third of the century. He finds that the characteristics of strikes
+disaggregated into its three components—frequency, magnitude and duration—are
+comparable or slightly higher than those reported by Shorter and Tilly (1974) for
+France, the US and other European countries. The pattern of Spanish strikes seems
+most similar to those observed in France, Germany, Belgium and Italy. Strikes
+motivated by wage increase demands were around 35 % of all strikes, according to
+information collected by the Instituto de Reformas Sociales. Sector breakdown
+shows construction, mining, metal working and textile as those with a highest labour
+conflictivity. Strikes were also closely correlated with geographical population and
+worker density. Bilbao was one of the main industrial nodes in Spain, which
+explains that around 10 % of the strikes registered in Spain were called in Biscay
+which concentrated approximately 2 % of total population.
+The lower average strike duration in Biscay over the whole of the interwar
+period, observed in Fig. 3, could be indicative of a lesser degree of information
+asymmetry, better negotiation or lesser means of resistance on behalf of the
+workers.22 As we have pointed out, strikes in Bilbao show summer seasonality, with
+a highest incidence in July and August. No such pattern can be found in the cost of
+living, unemployment, profit cycle or money wages. These seasonal patterns
+changed in the late 1920s and early 1930s, they evened out and shifted more to the
+month of May. No substantial explanation has been found for the high incidence of
+strikes in the months between April and August, but they are a reality also in our
+data.23
+4 The narrative of interwar labour relations in Bilbao
+Compared to other Western European countries, labour relations studies got off to a
+late start in Spain. Elsewhere labour academics had made important efforts to
+contrast theories about the determinants of labour conflict by collecting time series
+on strikes and related variables, especially following the high incidence of work
+conflict in the late 1960s and 1970s.24 Although the decline in labour union power in
+the 1980s removed labour unrest from the mainstream economics research agenda,
+the topic has resurfaced time and again—with important shifts (Franzosi 1989:
+358–360).25 The organizational-political models proposed by Tilly (1978) and other
+22 Card and Olson (1995) find higher bargaining power for workers when organized by unions.
+23 For a review on the seasonality of strikes Kennan (1987: 1130); Griffin (1939: 51–54) focuses more on
+the US and Knowles (1952: 157–160) on Great Britain. Knowles finds the same May seasonality for the
+United States and Great Britain for the 1919–1939 period, specifically in the metal, engineering,
+shipbuilding sector but also in transport and construction. The May shift may very well be related to the
+First of May celebrations increasing conflictivity.
+24 For a summary of countries which had collected strike data by the 1980s, see Paldam and Pedersen
+(1984).
+25 More recently Huberman and Young (2002), Geraghty and Wiseman (2008, 2011) have examined war
+of attrition and strike outcomes in Canada in the interwar period, war of attrition with asymmetric
+information in the 1880s US and the determinants of strike compromises in the US up to 1945
+respectively.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+authors added an interest in long-term cycles, and there was a surge in the
+application of the newer developments in micro-economics—game theory, collective action and new institutional economics.26 Over long periods, the study of labour
+relations in Spain remained dissociated from many of these efforts and trends.
+But with the return to democracy, notable progress in collecting data and
+approximating the issue of Spanish labour relations has been made. Labour history
+in Spain received an important boost from the extensive empirical research of
+Tun˜o´n de Lara (1972) and Soto Carmona (1989). The emerging industrial region of
+Biscay was among the first to be examined with a less ideological, more academic
+approach. Two monographs are considered path-breaking. Fusi (1975) provided a
+thorough traditional British labour history approximation in 1975, whereas Ola´barri
+(1978) connected to the structured theoretical approach marked by Walter (1970) or
+Clegg (1976) only a few years afterwards. Their work laid the foundations in
+defining methodology, historical sources and the academic study of labour relations
+in Biscay. Later contributions have concentrated in more detail on different periods
+and have extended the analysis to other regions.27
+In the pages to follow, we will recount the existing narrative of what we know
+about labour conflicts in the region our analysis will be concentrating on. In the first
+third of the twentieth century, labour relations in Biscay can be divided into four
+distinct phases which coincide with the periods of strike frequency we have shown
+before: a phase of labour-relations formation and ‘all-out war’ before 1912; a
+second phase of conflictive bargaining between 1912 and 1923; a phase of growing
+corporatization and low conflict during Primo de Rivera’s dictatorship (1923–29);
+and a period of trade union resurgence and growing conflict from 1930 onward.
+The first phase of labour relations was characterized by the war of attrition
+between unions and employers. It showed short waves of social agitation,
+disappearance and reappearance of conflictivity, and the dominance of socialist
+trade unions. On one hand, the ‘all-out war’ nature of the early industrial conflicts
+can be explained by the degree to which their protesters were exploited and the ease
+with which they were replaced by scabs. Union activism concentrated on miners and
+dock workers, both with low skill qualification, reliant on and prone to physical
+force and easily replaced with the constant stream of immigrant labour. On the other
+hand, workers’ resistance societies were weak, and employer associations, aware of
+their leverage, were unwilling to negotiate and keen on hungering out dissent. They
+used scabs and provoked outbursts of violence to force interventions by the armed
+forces and civil authorities, presuming that intervention would be in their favour.28
+26 See Kaufman (1982) for an exposition on the debate over economic versus organizational-political
+models. For an institutional approach to the theory of trade unions, see Kaufman (2010).
+27 Rivera (1985) analyzed the labour movement in the city of Vitoria, Luengo (1990) in Guipu´zcoa; and
+Castells (1993) put together a synthesis for all of the Basque regions of Spain. Sanfeliciano Lo´pez (1990)
+studied the socialist trade union Unio´n General de Trabajadores (UGT) in Biscay during the Second
+Republic; and Mees (1992) analysed the Basque-nationalist labour movement. Other important works
+include Cabrera and Rey’s (2002) survey on employer’s associations. Miralles Palencia (1992) provides a
+solid review of most of this literature.
+28 A closer description of the three intense waves of strikes in 1890–1892, 1899–1903 and 1910–1911,
+with the general disorganization and passivity in between and which precede the period we examine, can
+be found in Ola´barri (1978: 396–404) and Fusi (1975: 81–104, 118–52, 203–21, 230–42 and 318–31).
+S. O. Houpt, J. C. Rojo Cagigal
+123
+The period between 1911 and 1923 was a phase of conflictive bargaining, which
+had its foundation in the steady rise of the socialist trade union UGT, combined with
+employer’s associations’ indulgent resistance during the economic boom, and the
+gradual weakening of UGT power after 1920, when internal excisions and economic
+slowdown allowed for a crackdown on unions.
+As a result of Spain’s neutrality during World War I, Biscay’s industry had the
+opportunity to reap important wartime profits. But at the same time, speculation,
+hoarding, shortages and economic mismanagement doubled the prices of basic
+needs.29 This led to money wages lagging behind the cost of living over most of the
+war. The expansive economic conjuncture thus enclosed an explosive mix for
+strikes: a working class grieved by rising costs of living and a thriving war economy
+providing industrialists with extraordinary profits and therefore determined to avoid
+stoppages and make concessions. These circumstances combined to creating a
+period of conflictive negotiation between employers and unions. Strikes spread both
+in scale and scope, but they were preceded, accompanied and followed up by
+negotiations. Strikes were used as a signalling device in a ritual to extract
+information on whether employers were willing and able to concede a larger share
+of surplus. The climax in this phase of conflictive labour relations was attained
+between 1918 and 1920 at the height of strike frequency and was followed by a slow
+decline in the search for negotiation, bargaining and agreements. During this phase
+of rise and decline, the large metal-working companies and the socialist unions
+dominated labour relations in Biscay (Ola´barri 1978: 406–408).
+Several factors contributed to the deterioration of labour relations in 1920: the end
+of the war, socio-political revolutions in post-war Europe, the consolidation of the
+Russian Revolution, and continuously rising prices of basic needs. Previous employer
+concessions had also been strained beyond the means of small- and medium-sized
+enterprises. Whereas the larger firms had excellent business perspectives as long as
+their production processes did not come to a halt and were more concerned with
+avoiding hold-up than with wage concessions, small firms had less economies of scale
+and scope and did not profit to the same extent from wage concessions. By July 1920,
+there were major divisions between the groups of large businesses and small- and
+medium-size enterprises. Labour relations within the large corporate were different,
+and Ola´barri sustains that only the pact between UGT and large metal-working firms
+had prevented labour conflict from escalating to levels like in Barcelona and Madrid.
+Due to the impact of the industrial crisis of 1921, wage concessions by big employers
+finally came to an abrupt halt. In 1922, following a long series of strikes and lock-outs,
+trade unions were defeated and obliged to accept substantial wage cuts.
+The third phase, between 1923 and 1929, was of state-corporatist dominated
+labour relations. The escalation of political and social violence in Barcelona and
+Madrid, especially the growing threat of anarchist power in Catalonia, and the lack
+of direction and authority on behalf of the existing Restoration political factions led
+to a military coup d’e´tat. General Miguel Primo de Rivera had staged what was
+29 The cost of a basic food basket which included heating and lodging for working-class families in
+Bilbao grew from 100 in September 1914 (beginning of WWI) to 168 in November 1918 (end of WWI),
+and to 224 in December 1920 (price peak during the war and postwar period). See Rojo Cagigal and
+Houpt (2011).
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+intended to be a short transitional military take-over, but later clung to power in an
+attempt to create a moderate corporatist state aimed at overcoming social unrest and
+the tensions and antagonisms between the old and new forces of power and wealth.
+This involved the repression of the more radical trade unions and seeking the
+collaboration of the more moderate socialist union within the dictatorship’s
+corporatist labour-relations management.
+Primo de Rivera gradually introduced corporatist institutions to articulate
+bargaining. Some time before, at the beginning of the twenties, the last liberal
+governments had organized comite´s paritarios as tools of intermediation and
+resolution of disputes between unions and employers in some industrial sectors.
+However, the use of these corporatist arbitration boards had been sporadic. One of
+the main reasons was that, like their Italian counterparts, Spanish industrialists
+were sceptical about the binding effectiveness of negotiating in such bodies as
+long as trade union membership remained non-compulsory.30 A broader corporatist system of labour relations was enacted in 1926, when Minister Eduardo
+Auno´s published a decree creating the National Corporatist Organization. The
+decree extended the use of comite´s paritarios to all industrial sectors and
+organized them into local representative bodies, industry-based tribunals and
+corporations. The corporations integrated all the comite´s paritarios of a branch or
+industry and organized them hierarchically placing the Ministry of Labour at the
+peak of the organizational pyramid (Perfecto Garcı´a 1977). Auno´s’ corporatist
+architecture retained the more liberal dispositions but restructured it and increased
+the degree of government intervention. Although Primo de Rivera had created a
+single official political party, he made no attempt at verticalizing unions. In
+contrast to other corporatist experiences of the time, Auno´s’ model allowed for
+pluralism both for unions and employer associations. The repression of the more
+radical unions and the hierarchical corporatist structure imposed by the
+dictatorship gave the existing moderate unions the opportunity to consolidate
+workers’ representation on arbitration boards. The socialist union UGT, which
+was the dominant trade union in Biscay at the time, collaborated decidedly in this
+scheme.31 Economic growth and higher wages during the 1920s made the
+collaboration of UGT and the growing corporatization of labour relations easier to
+defend towards its ranks and files.32
+The improvement of industry-workers’ living conditions, the unions’ defeat in
+1922 and early repression on behalf of the dictatorship had undermined union power
+in Biscay over the first half of the decade (Castells 1993: 161–162). This steady
+decline in membership and UGT’s pragmatic stance had pushed the organization to
+30 The liberal political elites rejected compulsory trade unionization because it clashed with basic liberal
+principles like the freedom of association (Rey Reguillo 1992). See also Adler (2002).
+31 Weak government intervention combined with trade-union pluralism induces Linz (1981: 382) to
+define this model as a ‘social corporatism with pluralist features’.
+32 Over the 1920s, up to 1929 industrial production increases by little over 60 %, i.e. an annual average
+growth rate of almost 5%, from 1929 to 1935 it fell by approximately 1.5 % per year (Prados de la
+Escosura 2003, Tables A.5.7.& A.5.8).
+S. O. Houpt, J. C. Rojo Cagigal
+123
+actively participate in Auno´s’ corporatist system. From 1927 to 1930, the socialist
+union put into practice an intensive campaign to position themselves in the comite´s
+paritarios contending with the yellow Catholic and Basque-nationalist unions.33
+The system by which delegates were elected was ruled by a proportional-majority
+system, creating a bias towards the dominant position of UGT in the dictatorship’s
+arbitration boards, especially in the metal sector (Iba´n˜ez and Pe´rez 2012: 122). This
+in turn fed back into higher levels of affiliation. UGT had increased its ranks and
+files from just 4,000 members in 1924 to almost 18,000 in 1928 (Ola´barri 1978;
+Otaegui 1986; Castells 1993; Iba´n˜ez and Pe´rez 2012).
+The fourth phase of labour relations, from 1930 to the outbreak of the Spanish
+Civil War in 1936, was a period of higher conflictivity. The social peace was
+disrupted in the year 1930 by the final decay of the Primo dictatorship. This was the
+year of greatest labour conflict in Biscay in the period between 1926 and 1936,
+coming close to the highest levels attained after the war. The literature stresses two
+factors that explain this resurgence. Firstly, the dominance and overrepresentation
+of UGT in the corporatist bodies kindled rivalry and hatred in the ranks of the
+contending unions, especially in the communist unions. Secondly, the fall of Primo
+de Rivera opened a period of uncertainty in which arbitration seemed doomed to
+disappear. In preparation for a new institutional setting, a programmatic stance
+rendered better future returns. In this situation, unions—including UGT—increasingly called strikes with a political or revolutionary motivation (Ola´barri 1978:
+427–428). Strikes seeking the re-admittance of workers also propagated, especially
+in the metal sector, a sign of growing defiance and attrition. Unemployment did not
+affect labour relations in 1930, given that it did not appear until the end of the year.
+The number of employees in the larger iron-and-steel concerns actually increased
+slightly between December 1929 and December 1930 (Miralles Palencia 1988:
+117). Economic contraction and consequent unemployment made its appearance in
+1931.
+The proclamation of the Second Republic in April of 1931 modified the labour
+relation’s institutional framework anew. The leftist-republican governments developed a social-reform agenda aimed at improving the standards of living of the
+working class. The strategy designed by the socialist Labour Minister, Francisco
+Largo Caballero, was to maintain the corporatist structure of collective bargaining
+created during the preceding dictatorship, but imposing a stronger bureaucratic
+control by the Labour Ministry through the local and provincial delegations. Two
+laws in November 1931 enacted the new legal framework for collective bargaining.
+It endorsed the creation of arbitration boards—renamed jurados mixtos—in all
+sectors of the economy and encouraged detailed and lasting collective bargaining
+agreements, termed bases de trabajo (Soto Carmona 1989). The new legislation and
+the Ministry’s firm leading hand developed a dense network of collective bargaining
+in Spain, which showed some degree of similarity to the institutional setting which
+33 Catholic trade unions (Sindicatos Cato´licos and Sindicatos Libres) and Basque-nationalist unions such
+as SOV, also with a strong Catholic background, defended religious and family values, respect for private
+property, and rejected strike action. These unions strongly favoured negotiations and agreements with
+employers. SOV was financed by one of the most important entrepreneurs of the time, Ramo´n de la Sota.
+See Mees (1992).
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+existed during the latter half of Primo de Rivera’s dictatorship.34 Biscay made good
+use of the jurados mixtos, producing a long record of balanced settlements, much
+more than other regions of Spain (Sanfeliciano Lo´pez 1990: 337).
+5 What the short-term analysis of data reveals during conflictive bargaining,
+1914–1923
+With these different labour relation regimes in mind, our endeavour will be twofold:
+to reveal what is hidden in the monthly data by concentrating on the short-term
+factors generating labour conflict, and to combine this with our primary interest to
+discern the economic factors contributing. Here we are especially interested in the
+variation of income via prices or money wages, which would provoke situations of
+relative deprivation. We approximate the impact of economic factors on labour
+conflictivity in a simple wage bargaining model initially proposed by Ashenfelter
+and Johnson in 1969 and more recently discussed by Kennan in 1987, Franzosi in
+1995, and Farber in 2001.
+35 This approach has shown to be more successful with
+quarterly data than with annual frequency.36 Seasonal dummy variables are included
+to capture regularities in specific moments of the year. It also includes a variable
+which reflects the cumulative effect of real earnings variation in the recent past, the
+level of unemployment and a measure of perceived business profits. The
+Ashenfelter-Johnson model is a non-equilibrium model of strike activity which
+tries to detect the play of forces between what workers need to ask for and whether
+they are in a position to ask for it, and what employers are able to concede and
+whether they are willing to concede it.
+S0
+t ¼ b1D1t þ b2D2t þþ b11D11t þ b12
+Pn
+i¼0
+DRti
+n þ 1 þ b13UNt þ b14pt6 þ b15T
+þ t
+ð1Þ
+In our model, St
+0 is the number of strikes registered.37 Djt are the monthly
+seasonality dummies from January to November.38 Rt is the real representative
+working-family’s earning. The variation of their real income (DRt) has been
+34 For the institutional continuity of the collective-bargaining system in Spain during the 1920s and
+1930s see Rojo Cagigal (2009: 97–8).
+35 For discussion and comparisons of the model see Mumford (1993) and Goerke and Madsen (2004).
+36 Quarterly data for United States in Aschenfelter and Johnson (1969), for Great Britain in Pencavel
+(1970), and for Canada in Abbot (1984). (Kennan 1987: 1122).
+37 In the original model St
+0 is the probability of a strike, which should be approximated by St/N, the
+number of observed strikes over the number of contracts that are renegotiated. The probability must be
+proxied by the total number of strikes registered, which is consistent with assuming contracts being
+renegotiated evenly throughout the period.
+38 In the original model these seasonal dummies were included to capture the termination of contracts, in
+our case we include them to capture omitted seasonal variation in general. December shows the lowest
+strike frequency worldwide and also in Bilbao in this period.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+included as a two-period moving average. The lag structure is based on our previous
+work on family income, pawning, child abandoning and mortality. Two months is
+the statistically significant lag length with which these families react to deprivation
+in the form of increased pawning, which we assume to be indicative of the time with
+which economic strife seriously affects working-class families (Rojo Cagigal and
+Houpt 2011).
+Although we were more interested in seeing how short-term hardship affected
+strike frequency, we have also followed the bargaining-model modification
+proposed by Stern by using both income levels and changes in order to capture
+the effect of prosperity and relative deprivation, respectively (Stern 1978). UNt is
+the current level of unemployment proxied by the inverse of nuptiality. As we have
+commented before, nuptiality rates not only reflect the postponement of marriage
+due to unemployment, but also growing underemployment and any other form of
+reduction in earnings and income. pt-6 is the six-period lagged Bilbao stock
+exchange index.39 Business perspectives, real income and unemployment rates will
+interact to signal the give-and-take dynamics between employers and workers, and
+their willingness to grant concessions and support collective action, respectively
+(Franzosi 1995: 32–33). T is a time-trend variable introduced to approximate
+structural changes in the bargaining model, and et is an error term.
+In the original model, the expected signs for the coefficients of real income and
+unemployment are negative. The previous level of profits has an undetermined sign.
+This is because an upturn of profits increases the probability of management to give
+into wage demands but also tends to increase wage demands made by workers—
+perhaps more than what management would be willing to concede. The combination
+of the wage demands and the concession curve of employers in each particular case
+will determine whether unions lead workers to strike and thereby the expected sign
+of changing profits remains undetermined. A positive sign would indicate the unions
+demand more than what profits are signalling employers to be willing to concede.
+The table below shows the results of the OLS estimation in regression (1). In the
+majority of the cases, every one of the coefficients is in the expected direction
+(lagged earnings variation—negative; lagged profits—positive and unemployment—negative) and is statistically significant. The results provide strong support
+for the material-needs explanations for strikes.40 The serial correlation in the first
+regression is indicative of omitted variables and, together with the analysis of the
+residuals, recommends a GLS estimation—presented in specification (2). This
+second estimation pushes unemployment out of the foreground, but earnings
+variations and profits remain significant variables.41 Both specifications reflect the
+peak seasonality of strikes in summer months, very similar to what the original
+39 We have applied a 6 month lag to the Bilbao Stock Exchange index based on Moore who calculated an
+average six month lead for troughs and a 5 month lead for peaks between the United States Common
+Stock Price index and business cycle in the United States between 1873 and 1945. (Moore 1983: 148).
+40 This is similar to what Skeels (1982) found for the first half of the twentieth century in the US with the
+exception of the 1920s. See also Kaufman (1982: 484–89).
+41 If the differences in the coefficients estimated by OLS and GLS can give us any hint on the variables
+omitted from the model, these would be such that they lower the effect of changes in real income and that
+of unemployment. Higher job security and better working conditions are possible candidates.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+Aug-14
+Feb-15
+Aug-15
+Feb-16
+Aug-16
+Feb-17
+Aug-17
+Feb-18
+Aug-18
+Feb-19
+Aug-19
+Feb-20
+Aug-20
+Feb-21
+Aug-21
+Feb-22
+Aug-22
+Feb-23
+Aug-23
+Feb-24
+Aug-24
+Feb-25
+Aug-25
+Feb-26
+Aug-26
+Feb-27
+Aug-27
+Feb-28
+Aug-28
+Feb-29
+Aug-29
+Feb-30
+Aug-30
+Feb-31
+Aug-31
+Feb-32
+Aug-32
+Feb-33
+Aug-33
+Feb-34
+Aug-34
+Feb-35
+Aug-35
+Fig. 4 Plot of residuals. GLS estimation, Table 2, specification (2)
+Table 2 Test of wage bargaining model for Biscay
+Dep. var.: nr.
+strikes
+(1) OLS
+Full
+sample
+(2) GLS
+Full
+sample
+(3) Phase 1
+Jan 14–
+Aug 23
+(4) Phase 2
+Nov 23–
+Dec 35
+(5) OLS
+Full
+sample
+(6) OLS
+Full
+sample
+Constant 1.473
+(0.947)
+0.268
+(1.694)
+-2.726
+(4.449)
+-0.407
+(0.932)
+8.127***
+(1.562)
+4.711
+(2.935)
+DJan -0.157
+(0.541)
+-0.125
+(0.329)
+-0.445
+(0.695)
+0.066
+(0.240)
+-0.151
+(0.517)
+-0.175
+(0.523)
+DFeb 0.196
+(0.545)
+0.149
+(0.422)
+0.065
+(0.891)
+0.168
+(0.288)
+0.252
+(0.521)
+0.237
+(0.527)
+DMar 0.231
+(0.549)
+0.164
+(0.472)
+0.419
+(0.996)
+-0.074
+(0.307)
+0.294
+(0.525)
+0.290
+(0.530)
+DApr 0.082
+(0.541)
+0.091
+(0.493)
+0.031
+(1.029)
+0.079
+(0.314)
+0.089
+(0.517)
+0.089
+(0.522)
+DMay 0.255
+(0.542)
+0.227
+(0.507)
+0.472
+(1.058)
+-0.034
+(0.316)
+0.272
+(0.518)
+0.276
+(0.524)
+DJun 0.616
+(0.541)
+0.607
+(0.510)
+0.988
+(1.063)
+0.263
+(0.317)
+0.617
+(0.516)
+0.619
+(0.523)
+DJul 1.574***
+(0.534)
+1.644***
+(0.508)
+3.578***
+(1.066)
+0.118
+(0.371)
+1.540***
+(0.521)
+1.528***
+(0.527)
+DAug 1.513***
+(0.543)
+1.525***
+(0.488)
+3.137***
+(1.014)
+0.270
+(0.317)
+1.549***
+(0.517)
+1.561***
+(0.522)
+DSep 0.733
+(0.543)
+0.742
+(0.461)
+1.597
+(0.967)
+0.151
+(0.303)
+0.804
+(0.517)
+0.809
+(0.522)
+DOct 0.172
+(0.543)
+0.178
+(0.413)
+0.629
+(0.873)
+-0.087
+(0.281)
+0.149
+(0.517)
+0.147
+(0.522)
+S. O. Houpt, J. C. Rojo Cagigal
+123
+model found for the United States and other industrial countries. Both estimations
+show that economic factors are capable of explaining an important part of the
+variability of strike frequency over the period.
+The residuals for the GLS regression (2) shown below reflect the three periods of
+labour-relations regimes in Biscay during the period we examine. The first period of
+conflictive bargaining stretches from 1914 to 1923. A closer look at Fig. 4 reveals
+important surges in strike activity—July 1917, May 1919 and August 1920—which
+are not explained by the movements of the explanatory variables included in the
+regressions. All the observed strike peaks are replicated in the estimated values but
+they are underestimated. Economic variables alone cannot explain the explosive
+nature of conflict in this stage, although it does very well in explaining when strike
+waves do occur within that particular economic bargaining framework (Table 2).
+During the Primo de Rivera dictatorship (1923–1929), the fitted observations
+continue to pick up strike occurrence until 1926, when the arbitration boards enter
+the scene. Thereafter, until the end of the dictatorship, strikes practically disappear.
+In the last phase of labour relations, the wage bargaining model fits the observed
+data well during the first 2 years (1930–1931), but is completely inadequate when
+corporatist bargaining institutions are reintroduced.
+Table 2 continued
+Dep. var.: nr.
+strikes
+(1)
+OLSFull
+sample
+(2)
+GLSFull
+sample
+(3) Phase
+1Jan 14–
+Aug 23
+(4) Phase
+2Nov 23–
+Dec 35
+(5)
+OLSFull
+sample
+(6)
+OLSFull
+sample
+DNov 0.065
+(0.535)
+0.042
+(0.323)
+0.175
+(0.691)
+-0.009
+(0.232)
+0.096
+(0.517)
+0.092
+(0.523)
+MA-12 long-term
+inc.var.
+-1.138***
+(0.219)
+-0.995***
+(0.282)
+MA-2 income
+variation
+-1.565***
+(0.475)
+-1.200***
+(0.335)
+-1.260**
+(0.535)
+-0.956@
+(0.609)
+-1.768***
+(0.457)
+-1.829***
+(0.462)
+Unemployment -0.096**
+(0.041)
+-0.025
+(0.078)
+0.048
+(0.179)
+-0.004
+(0.054)
+-0.121***
+(0.040)
+Peak -0.072*
+(0.042)
+Trough 0.061
+(0.062)
+Business profits(-6) 0.0107***
+(0.002)
+0.011***
+(0.004)
+0.015**
+(0.006)
+0.002
+(0.002)
+0.007***
+0.001
+0.009***
+(0.002)
+Time trend -0.008***
+(0.001)
+-0.008**
+(0.003)
+0.008
+(0.021)
+0.001
+(0.002)
+-0.002
+0.002
+0.002
+(0.001)
+AR(1) 0.643***
+(0.050)
+0.626***
+(0.083)
+0.453***
+(0.074)
+R-squared 0.351 0.613 0.644 0.296 0.421 0.410
+Bold coefficient values are significant
+@ Significance at 11 %, * at 10 %, ** at 5 % and *** at 1 %
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+For the socialist union UGT, strikes stopped being a signalling device after 1926.
+They were no longer part of a procedure for obtaining ‘rite’-full redistribution as it
+had been in the previous period. Before 1923, asymmetric information and
+redistribution may have been at the base of strikes. Private information about the
+demand and profitability of its products was withheld by the firm. Strikes became a
+device to make firms signal whether they had good enough business perspectives to
+therefore grant higher wages immediately or whether they had poor perspectives and
+resisted the strike to force lower wages demands. Ex post the private information on
+demand would become available to labour by way of the audited accounts in the
+shareholder reports, dividend announcements and the climate of prosperity workers
+breathed in their shops. The production foregone by strikes may be considered the
+cost of extracting such private information at each moment of time.
+In any case, it is worth noting that if anything remained in place during the
+following phases of corporatist labour relations, it is the high sensitivity of strikes to
+decreases in real earnings—see both regression (4) and Table 3. As we can observe
+in specifications (5) and (6), this income-variation sensitivity remains significant
+even when we add long-term variations in incomes or the differentiated effect of
+unemployment—trough and peak variables of unemployment which emphasize the
+opposing impact that unemployment may have on strike frequency. As expected,
+unemployment plays a significant role when emphasizing low unemployment
+phases—peaks. Tightening labour markets encourage workers to strike in the early
+thirties. But the increasing threat of job loss and rising unemployment and
+underemployment discourage them from stoppages as the decade preceded. At the
+same time, neither long-term variations nor short-term variations in income can be
+discarded as determinants of higher strike propensity.
+It might be interesting to insist on the similarity to other studies for this period.
+Knowles (1952: 314) found that strikes in post WWI Britain were mainly aimed at
+avoiding decreases in wages. Both Knowles for Great Britain and Griffin (1939: 68)
+for interwar America place particular importance on 1920–1921, a period in which
+wholesale prices fell by more than a third in both the United States and Britain. In
+that same period, strikes fell by 30 % in 1921 and 67 % in 1922 in the United States,
+and by 50 % in Great Britain in 1921 (Kennan 1987: 1116). Strikes acquire a
+completely different meaning in a context of growing recession. They will no longer
+be used as a tool for extracting information on business perspective. Rather than
+this, they will be employed as a defensive mean in order to curb placing the weight
+of economic adjustment on workers.42
+Some very convincing evidence on pro-cyclical fluctuations of strike activity for
+the interwar period was provided by Jurkat and Jurkat (1949) for the United States
+between 1915 and 1938.43 The NBER business cycles were divided into nine
+phases: phases one, five and nine being trough, peak and trough, respectively. The
+total number of months between trough and peak—or peak and trough—were
+42 For a summary of this sort of ‘defensive strikes’, see Naples (1987).
+43 This has also been pointed out by Rees (1954) and Weintraub (1966); although questioned by Scully
+(1971), who found differences in the frequencies of both cycles using spectral analysis. Nevertheless it
+adds the interesting aspect of how inflation and strikes relate to each other.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+Table 3 Procyclicity of strikes to cost of living index cycles
+Trough – Expansion – Peak – Contraction – Trough
+Phase 1 Phase 2 Phase 3 Phase 4 Phase 5 Phase 6 Phase 7 Phase 8 Phase 9
+1st cycle 01–03/1914 04/14–05/16 06/16–07/18 08/18–09/20 10–12/1920 01/21–04/23 05/23–08/25 09/25–01/28 02–04/1928
+73 31 146 269 73 130 47 3 0
+2nd cycle 02–04/1928 05/28–08/29 09/29–01/31 02/31–06/32 07–09/1932 10/32–07/33 08/33–05/34 06/34–03/35 04–06/1935
+0 0 115 330 244 73 73 24 0
+Percentage of average strike number over the cycle
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+divided into three phases of equal length, expansion phases two, three and four and
+contraction phases six, seven and eight, respectively. We apply this same
+methodology to the cost-of-living index we have for Biscay, and for each phase,
+we count the amount of strikes in that phase expressed as a per cent of the average
+number of monthly strikes over the whole cycle. Therefore, 73 % in the first cycle
+during phase one means that the number of strikes observed in these 3 months is
+73 % of the average monthly number of strikes over the whole cycle. Again Table 3
+shows there is a high level of coincidence between these price-real income cycles
+and the relative frequency of strike waves. Strikes occur over average in the
+expansion and peak phases of inflation.
+Knowles (1952: 147) stressed the cost of living as a non-direct indicator of
+economic pressure on the worker’s life, in so far as worker’s families live on narrow
+margins they might be expected to resist rises in the cost of living by striking.
+Applying this older methodology to measure economic pressure on worker’s life,
+we find that the cyclic movement in the cost of living is very closely tied to the
+strike cycle. Strikes have a high incidence at the peaks of basic-needs price
+increases and linger on after.44 Relative deprivation of families cannot be discarded
+as ultimate source of labour conflict during neither of the two cycles. As to why
+strike frequency does not remit until some time after prices stop increasing, perhaps
+Hoffer (1951: 27–28) has best expressed the dormant nature and lagged timing of
+addressing grievance: ‘Discontent is likely to be highest when misery is bearable;
+when conditions have so improved that an ideal state seems almost within reach. A
+grievance is most poignant when almost redressed (…) it is not actual suffering but
+the better taste of things which excites people to revolt’. With this in mind, we can
+return to the change in the bargaining scenario initiated by the dictatorship in
+November of 1926.
+6 What the short-term analysis reveals during corporatist bargaining,
+1926–1936
+As we have seen before, the corporatist arbitration boards introduced in 1926 by
+Labour Minister Eduardo Auno´s opened the door for the socialist trade union UGT
+to institutionalize bargaining and outrival contenders.45 The new regime followed a
+two-tiered strategy of repressing radical left-wing unions—anarchists and communists—and at the same time offering power and overrepresentation to the socialists
+and, at a lesser extent, to the yellow unions—Catholic and Basque nationalist. UGT
+merely followed a pragmatic strategy of gathering power, consolidating its
+organizational prowess and converting itself nationwide into the hegemonic trade
+union it had been in Biscay.
+44 Goerke and Madsen (2004: 395) summarize the literature which insists on inflation fostering strikes if
+workers have not been compensated for the resulting loss of purchasing power.
+45 For the corporatization of interest intermediation, see the seminal work of Schmitter (1974). For an
+analysis of the process of corporatization in authoritarian regimes in interwar Europe, see Pinto (2012).
+S. O. Houpt, J. C. Rojo Cagigal
+123
+Therefore, the socialist trade union pounced on the opportunity to consolidate
+their power from within the state during Primo dictatorship and then promoted the
+system on as a solid vehicle to continue accumulating power during the first years of
+the Republic.46 The scenario of labour relations we can describe for 1931 is that of a
+region which is increasing its organized collective bargaining, which has growing
+union membership, mainly socialist and Basque nationalist, and which is facing a
+severe situation of unemployment—much higher than any other part of Spain. The
+important political involvement with which the masses reacted to the new pluralist
+regime, the high expectations for improvement harboured in the new government
+due to its socialist participation, the mounting strength of unions and the growing
+unemployment combined to a highly explosive me´lange. But quite contrary to what
+might be expected, in Bilbao it generated one of the lowest strike frequencies in
+Spain.
+A possible explanation for the low labour conflictivity was the strategy of
+moderation employed by the two most important unions. In the beginning, in 1931,
+workers blamed employers for lay-offs and production cut-downs. They accused
+them of sabotaging the consolidation of the new political regime.47 As a reaction,
+socialist union leaders conducted an important campaign of contention, convincing
+workers that the cause of unemployment was exogenous and that the measures taken
+by employers were justified by the severity of demand contraction. The operation
+included visits by government officials, newspaper campaigns and wide-scale
+factory briefings (Castells 1993: 167–168). The Basque-nationalist union SOV
+developed a similar policy of finding a non-conflictive way out of recession. Both
+trade unions promoted alleviation of the crisis through the jurados mixtos; the
+creation of a short-term unemployment insurance; organizing fundraising to pay for
+unemployment benefits; increasing the capacity of soup kitchens; or lobbying the
+government, especially socialist Public Works Minister Indalecio Prieto, for public
+works stimulus packages as a means of reactivating the construction and iron and
+steel industries (Ola´barri 1978: 428–429).48 As a result of their combined efforts,
+strike activity was more restrained between 1931 and 1933, to the contrary of what
+happened in other regions of Spain.
+Once socialist unions lost their grip on the captured state after the political right
+won the elections in November of 1933, they turned their organization and
+discourse to revolution. How had the ranks and files been accommodated so easily
+over the two previous years of the Republic? Between its sixteenth congress in 1928
+and its seventeenth congress in October of 1932, UGT carried out a strong
+centralizing reform within the trade union. This included the creation of 37
+46 The coming of the Second Republic also increased union membership in Biscay. Socialist UGT
+affiliates grew from 18,000 members in 1928 to more than 31,000 in 1934. The second most important
+union, the Basque-nationalist Solidaridad de Obreros Vascos, increased its membership from 6,200 in
+1929 to 18,000 in 1935. Union pluralism re-legalized anarchist and communist unions, prohibited during
+the dictatorship, although their activity remained limited to very occasional conflicts.
+47 The most important strike motives during 1931 were the re-admittance of laid-off workers and the
+reduction of the working day.
+48 According to Sanfeliciano Lo´pez (1990): 301), the underemployment or the unemployment itself was
+the main obstacle to sustain the workers’ demands via strikes.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+Table 4 Wage bargaining model with rivals
+Dep. var.: nr. strikes (1)
+Nov 26–Dec 29
+Jun 31–Dec 35
+(2)
+Jun 31–Dec 35
+II Republic
+Constant -1.4743
+(1.618)
+8.629
+(8.202)
+DJan 0.072
+(0.715)
+-0.222
+(0.912)
+DFeb -0.074
+(0.716)
+-0.415
+(0.906)
+DMar -0.456
+(0.727)
+-1.062
+(0.911)
+DApr 0.036
+(0.741)
+0.294
+(0.979)
+DMay 1.199
+(0.746)
+1.869*
+(0.984)
+DJun 0.668
+(0.713)
+0.082
+(0.949)
+DJul 0.676
+(0.693)
+0.071
+(0.877)
+DAug 0.301
+(0.697)
+-0.322
+(0.876)
+DSep 0.018
+(0.701)
+-0.553
+(0.857)
+DOct -0.362
+(0.689)
+-0.961
+(0.851)
+DNov -0.006
+(0.671)
+-0.319
+(0.857)
+MA(2) income variation -0.312
+(1.544)
+-5.324*
+(3.168)
+Unemployment -0.138*
+(0.084)
+Business profits(-6) 0.005
+(0.004)
+0.023*
+(0.013)
+Rivals 1.481***
+(0.428)
+0.922*
+(0.514)
+Peak -0.686*
+(0.368)
+Trough -0.006
+(0.097)
+Time trend 0.016***
+(0.005)
+R-squared 0.294 0.415
+Bold coefficient values are significant
+* Significance at 10 %, ** at 5 % and *** at 1 %
+S. O. Houpt, J. C. Rojo Cagigal
+123
+‘National Industrial Branches’ which came under the full control of the national
+trade union hierarchy. Strikes and relations to employers were relegated to the
+centralized bodies of the union (Iba´n˜ez and Pe´rez 2012: 145).49 For Tilly (1989:
+444), ‘to the extent to which crucial decisions visibly take place at a national scale
+(…) and the power position of labour is uncertain, we can expect political strikes to
+become prominent’. In such a scenario, the temporal patterns of strikes should
+change accordingly, in order to accommodate from the local productive fluctuations
+to changes in policy, regimes and power on a national level.
+UGT’s strategy of consolidating more organizational power within the corporatist-state framework could have produced a strategic response by other unions
+which could have influenced the strike cycle. In order to test this, we have modified
+the original model to include a dummy variable we have named ‘rivals’. This
+dummy variable will be zero over almost all of the period and take value one for the
+months surrounding the publication of agreements struck by the arbitration boards
+(comite´s paritarios until the Republic and jurados mixtos afterwards) in the metal
+sector of Biscay —the highest institutionalized sector in industry.50 The hypothesis
+being tested here is that rival unions would intensify strike activity whenever UGTdominated arbitration boards obtained agreements on holidays, minimum wages,
+overtime compensation or wages adjustments. Two motivations are behind this type
+of sabotage. On one hand, it sends a strong signal to employers that UGT does not
+represent all workers and that other unions should have a higher presence in the
+arbitration boards. It also undermines the authority of UGT as a negotiating party.
+On the other hand, the publication of such agreements can be used to convince
+workers that they have been sold out by UGT and rally anger for protest. As we can
+see in Table 4, the ‘rival’ variable is significant and positive for both of the models
+we specify. The political struggle we observe here is therefore not one tied to
+national politics but rather driven by the rivalry of competing unions at moments
+when arbitration boards publish the agreements they have negotiated in Bilbao.
+Two other interesting results are, on one hand, the change in the seasonality of
+strikes, especially the high incidence of strikes in the month of May—a common
+pattern in Great Britain and United States—and the other result worth noting is that
+the economic variables remain relevant in this new regime of labour relations.
+Grievances have retained their spontaneous impact on strike frequency and firm
+profits and unemployment continue to show the correct coefficients and are
+significant [Table 4, (2)].
+The impact of unemployment should be significant especially in the 1930s, when
+the effect of the economic depression on industrial employment in Biscay was
+particularly harsh. The iron and steel industry and metal-working industries were
+especially hard hit, followed by mining and construction. The three sectors added up
+90 % of unemployment in Biscay (Rivera 2002: 128). The increase in unemployment reached its heights between 1931 and 1932 and failed to drop substantially in
+49 Nevertheless as Cruikshank and Kealey (1987) insist wages figure prominently both in times of union
+strength and weakness.
+50 Publication dates are taken from Prat and Molina (2011: 14). Dummy variable takes value one for the
+month before publication, the month of publication and the two months following publication.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+Table 5 Crime and dispair
+Dep. var.: (1) Strikes
+Jan 30–Dec 35
+(2) Strikes
+Jan 30–Dec 35
+(3) Property crime
+Jan 30–Dec 35
+Constant 11.820
+(7.982)
+25.601***
+(8.523)
+115.877***
+(19.493)
+DJan -0.585
+(1.036)
+-0.438
+(1.017)
+-6.551
+(5.164)
+DFeb -1.055
+(1.029)
+-1.185
+(1.007)
+-9.240*
+(5.170)
+DMar -0.889
+(1.034)
+-1.087
+(1.005)
+-6.461
+(5.167)
+DApr 0.511
+(1.125)
+0.054
+(1.016)
+-6.906
+(5.164)
+DMay 3.068***
+(1.132)
+2.570**
+(1.018)
+1.946
+(5.163)
+DJun 0.602
+(1.114)
+0.169
+(1.011)
+-5.559
+(5.166)
+DJul 0.284
+(1.060)
+0.492
+(1.049)
+-13.458**
+(5.163)
+DAug 0.138
+(1.060)
+0.407
+(1.051)
+-10.075*
+(5.165)
+DSep 0.026
+(1.033)
+0.146
+(1.016)
+-5.923
+(5.168)
+DOct -0.423
+(1.023)
+-0.082
+(1.012)
+-20.595***
+(5.177)
+DNov -0.522
+(1.025)
+-0.710
+(0.999)
+-9.707*
+(5.175)
+MA(2) income variation -0.318
+(2.750)
+0.833
+(2.652)
+Income(-5) -11.220***
+(2.459)
+Unemployment -0.144
+(0.121)
+-0.121
+(0.116)
+-0.465
+(0.466)
+Business profits(-6) 0.002
+(0.011)
+0.012
+(-1.222)
+Rivals 1.007@
+(0.607)
+Political violence -0.115**
+(0.051)
+Time trend -0.036
+(0.022)
+-0.079***
+(0.024)
+R-squared 0.439 0.461 0.481
+Bold coefficient values are significant
+@ Significance at 11 %, * at 10 %, ** at 5 % and *** at 1 %
+S. O. Houpt, J. C. Rojo Cagigal
+123
+the following years. In January of 1936, approximately 25 % of the payroll was laid
+off, another 25 % was working reduced shifts. Close to 50 % of the metal-industry
+workers were suffering unemployment or underemployment. Biscay had the highest
+unemployment rate in Spain, around 20 %.51 The unemployed metal-workers in
+Biscay were 38 % of all unemployed metal-workers in Spain. Unemployment
+numbers did not vary substantially in the Biscayan metal sector over the period,
+whereas they began improving by 1934 in other regions of Spain (Miralles Palencia
+1988: 117).52
+Edwards (1978) has suggested that the relation between unemployment and
+proneness to strike can be either inverse—due to the tightness of labour markets
+during low unemployment—or direct—due to discontent during moments of high
+unemployment. This is why we had included trough and peak variables of
+unemployment in the specifications in Tables 2 and 4.
+53 We saw that unemployment
+played a significant role when emphasizing low unemployment phases—peaks.
+Tightening labour markets encouraged workers to strike in the early thirties. The
+threat of job loss and rising unemployment and underemployment throughout the
+thirties discouraged them from stoppages.
+Some additional insight might also be gained from criminal statistics. If
+relative deprivation is a driving force for labour conflicts, it should also be
+systematically related to political violence and property crime.54 In the
+regressions in Table 5, we see that property crime shows both seasonality and
+a high negative relation to lagged earnings and unemployment. We had found
+that a decrease in workers’ income is followed by a proportional increase in
+mortality with a lag of 5 months. We therefore calibrate the moment of a
+maximum impact on families to be 5 months after a decrease in real income. At
+this point of time, desperate situations would lead to desperate solutions. The
+hypothesis that social disruption in the form of property crime may be driven by
+short-term variation in earnings as a consequence of price increases cannot be
+rejected with these results. Both seasonality and the significant inverse relation to
+income level should incline us to think that property crime may be driven by
+short-term economic hardship. On the other hand, political violence has an
+inverse relation to strike frequency—political violence is high when strikes are
+51 There are no reliable statistics, and given the difficulty of estimating the impact of reduced hours, this
+is the magnitude usually assumed by the literature.
+52 Biscay accounted for 2.06 % of the Spanish population and 4.2 % of the unemployment. (Rivera 2002:
+128).
+53 For the calculation method of troughs and peaks, see Edwards (1978: 376).
+54 Literature has usually established a direct correlation between poverty and theft. According to the
+theoretical work developed by Becker (1968), people resort to crime only if the costs of committing the
+crime are lower than the benefits gained. Therefore, those living in poverty have a much greater chance of
+committing theft. For the link between economic conditions and crime, see the summary of Johnson
+(1995: 137–141) for pre-1914 Germany; or the work of Mehlum et al. (2006) for nineteenth century
+Baviera; and Traxler and Burhop (2010) for Prussia, which show a strong correlation between real wages
+and crime rates; and Bignon et al. (2011) for nineteenth century France. Bignon et al. (2011) also include
+references to contemporary studies.
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+low.55 This offers less support to our hypothesis unless the repression of strikes
+on behalf of accommodating unions is creating frustration over passivity.
+7 Conclusions
+Quite contrary to previous literature, we find solid evidence for the economic forces
+being systematically related to labour conflict in the interwar period. This may be
+due to using disaggregated series and higher data frequency. Monthly data, real
+worker’s earning instead of GDP per head, family unit measurement of impact of
+price fluctuations, a regional perspective for analysing what at that time was a
+strongly segmented economy, are but a few of the elements that may have
+contributed to finding different results.
+Labour and social conflict in Bilbao, considered the highest wage earning
+industrial area in Spain, was driven by short-term variations in workers’ family real
+incomes, profit cycles and unemployment. When we use the cyclic movement in the
+cost of living to measure economic pressure on worker’s life, we find that this is also
+very closely tied to the strike cycle. Strikes have a high incidence at the peaks of
+basic-needs price increases and linger on after. Both results are indicative of a redistributional conflict. Even when workers’ claims for higher real incomes are
+repressed by authoritarian rule or refrained by moderate pragmatic union policy,
+they remained latent and resurged. Only on occasions of moderation did political
+motives move more to the foreground. But even during the Second Republic
+(1931–1936), in a period of high political mobilization, strikes still reacted to
+economic factors’ variations.
+During the Republic, when the socialist trade union UGT had its ranks and files
+under tight control and was negotiating collective agreements, we have been able to
+trace back some of the political character of strikes to the inter-union struggle for
+worker representation. The receptiveness of workers to more radical agitators is a
+sign of discontent and can be interpreted as a reaction to expected economic
+improvement which has not been forthcoming. The moderation of strike activity in
+the 1920s, when living conditions were steadily improving, gives further support to
+economic factors determining labour conflictivity. The short-term reaction of strikes
+and property crime to changing economic conditions gives more sustenance to the
+hypothesis of precarious family incomes and sensitivity to relative deprivation. Both
+phenomena are coherent with theories on the coming of civil conflict in Spain:
+‘Revolution growth is the product not of extreme oppression but of relatively rapid
+improvement in conditions (Spain during the 1920s) in countries where notable
+internal problems are followed by a downturn or significant new frustrations’ Payne
+(2009: 4).
+The paper provides important evidence on the correlation between variations in
+material well-being and labour unrest in the prelude to the Spanish Civil War, which
+in itself was a prelude to the Second World War—both major turning points in the
+55 ‘Political violence’ combines series of ‘terrorist attacks’ and ‘subversive actions’, compiled by the
+local police.
+S. O. Houpt, J. C. Rojo Cagigal
+123
+social distribution of income. From a theoretical point of view, the analysis reopens
+the debate on the importance of economic factors as determinants of labour
+conflictivity and, ultimately, social unrest. Economic factors have been largely
+displaced by the organizational and political explanations for the labour unrest in
+this period. Our results suggest that this may be due to the use of aggregate and
+yearly data. The use of monthly data and disaggregate series give strong support to
+the prevalence of economic factors determining conflictivity. It challenges the
+present state of the question on the Spanish interwar period which affirms that
+economic factors had little or nothing to do with labour unrest and thereby reopens
+an important debate within the context of the period leading up to the Spanish Civil
+War: were there economic causes to the conflagration? As a minimum it demands
+further work on the major industrial centres in Spain. It also gives reason to believe
+that monthly rather than yearly data could give far greater insights on the impact of
+interwar price fluctuations and production crisis on labour unrest in other European
+industrial areas.
+Acknowledgments We thank Pamela Radcliff, Christopher Clague and Peter Howlett for help,
+observations, stimulus and suggestions. Useful comments have been received at presentations held at the
+WEAI Meeting 2011, San Diego and the Economic History Society Conference 2012, Oxford. Portions of
+the research were supported by Spanish Ministerio de Educacio´n y Ciencia, projects ECO2009-13331-
+C01-01, and PR2010-0104. The usual disclaimer applies to the errors that may remain.
+References
+Abbot MG (1984) Specification tests of quarterly econometric models of aggregate strike frequency in
+Canada. Res Labour Econ 6:177–250
+Adler FH (2002) Italian industrialists from liberalism to fascism: the political development of the
+industrial bourgeoisie, 1906–34. Cambridge University Press, Cambridge
+Allen RC (2001) The great divergence in European wages and prices from the Middle Ages to the First
+World War. Explor Econ Hist 38:411–447
+Allen RC (2009) The British industrial revolution in global perspective. Cambridge University Press,
+Cambridge
+Allen RC (2013) The high wage economy and the industrial revolution: a restatement. Oxford University
+Discussion Papers #115
+Altos Hornos de Vizcaya (1914–1923) Cost accounting books. Signatures AFB/BFA AHV0295 [1914],
+AHV0297 [1915], AHV0298 [1916], AHV0299 [1917], AHV0300 [1918], AHV0302 [1919],
+AHV0303 [1920], AHV0304 [1921], AHV0305 [1922] and AHV0306 [1923]. Archivo Foral de
+Vizcaya, Bilbao
+Ashenfelter O, Johnson GE (1969) Bargaining theory, trade unions and industrial strike activity. Am Econ
+Rev 50:35–49
+Ashenfelter O, Pencavel JH (1969) American trade union growth: 1900–1960. Q J Econ 83:434–448
+Becker GS (1968) Crime and punishment: an economic approach. J Polit Econ 76:169–217
+Bignon V, Caroli E, Galbiati R (2011) Stealing to survive: crime and income shocks in 19th century
+France. Paris School of Economics WP 2011–33
+Cabrera M, Rey F (2002) El poder de los empresarios. Polı´tica y economı´a en la Espan˜a contempora´nea
+(1875–2000). Taurus, Madrid
+Card D (1990) Strikes and bargaining: a survey of the recent empirical literature. Am Econ Rev
+80:410–415
+Card DE, Olson CE (1995) Bargaining power, strike durations, and wage outcomes: an analysis of strikes
+in the 1880s. J Labor Econ 13:32–61
+Castells L (1993) Los trabajadores en el Paı´s Vasco (1876–1936). Siglo XXI, Madrid
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+Chastagnaret G et al. (2010) (eds) Los niveles de vida en Francia y Espan˜a (siglos XVIII–XX)
+Publicaciones de la Universidad de Alicante and Publications de l’Universite´ de Provence, Alicante
+Clegg HA (1976) The system of industrial relations in Great Britain. Blackwell, Oxford
+Cohn S (1993) When Strikes make sense—and why: lessons from the Third Republic French Coal
+Miners. Plenum Studies in work and industry
+Cohn S, Eaton A (1989) Historical limits on neoclassical strike theories: evidence from French coal
+mining, 1890–1935. Ind Labor Relat Rev 42:649–662
+Consolazio CF (1966) Nutritional variation in world populations and performance potential. Annals of the
+New York Academy of Sciences, special edition The Biology of Human Variation 134:885–896
+Consolazio FC, Shapiro R, Masterson JE, McKinzie PSL (1961) Energy requirements of men in extreme
+heat. J Nutr 73:126–134
+Crampton PC, Tracy JS (2003) Unions, bargaining and strikes. In: Addison JT, Schnabel C (eds)
+International handbook of trade unions. Edward Elgar, Cheltenham, pp 86–117
+Cruikshank D, Kealey GS (1987) Strikes in Canada, 1891–1950: I analysis and II methods and sources.
+Labour Fall 85–145
+Dasgupta P, Ray D (1987) Adapting to undernourishment. The clinical evidence and its implications. UN
+University, WIDER WP 10
+Devereux PJ, Hart RA (2011) A good time to stay out? Strikes and the business cycle. Br J Ind Relat
+49:70–92
+Edwards PK (1978) Time series regression models of strike activity: a reconsideration with American
+data. Br J Ind Relat 16:320–334
+Escudero A (1998) Minerı´a e industrializacio´n en Vizcaya. Crı´tica, Barcelona
+FAO (2001) Human energy requirements. Report of a joint FAO/WHO/UNU Expert Consultation. Food
+and Nutritional Technical Report Series 1. Rome
+Farber HS (2001) Notes on the economics of labor unions. Princeton University WP 452
+Floud R, Fogel RW, Harris B, Hong SC (2011) The changing body: health, nutrition, and human
+development in the Western World since 1700. New approaches to economic and social history.
+NBER series on long-term factors in economic development. Cambridge University Press,
+Cambridge
+Franzosi R (1989) One hundred years of strike statistics. Methodological and theoretical issues in
+quantitative strike research. Ind Labor Relat Rev 42:34–63
+Franzosi R (1995) The puzzle of strikes. Class and state strategies in postwar Italy. Cambridge University
+Press, New York
+Friedlander D (1992) British depression and nuptiality: 1873–1896. J Interdiscip Hist 23:19–37
+Friedman G (2007) Reigniting the labor movement. Restoring means to ends in a democratic labor
+movement. Routledge, London
+Friedman G (2009) Theories of strikes. In: Brenner A, Day B, Ness I (eds) The encyclopedia of strikes in
+American history. Sharpe, New York
+Fusi JP (1975) Polı´tica obrera en el Paı´s Vasco 1880–1923. Turner, Madrid
+Garcı´a Abad R, Ruzafa Ortega R (2009) Mujeres y nin˜os en las minas de Vizcaya. Cuadernos de
+investigacio´n minera. Ediciones Beta III Milenio, Gallarta
+Geraghty TM, Wiseman T (2011) Conflict and compromise: changes in U.S. strike outcomes, 1880 to
+1945. Explor Econ Hist 48:519–537
+Geraghty TM, Wiseman T (2008) Wage strikes in 1880s America: a test of the war of attrition model.
+Explor Econ Hist 45:303–326
+Goerke L, Madsen JB (2004) Labour disputes in the twentieth century: an international comparison and
+evaluation of theories. Homo Oeconomicus 20:391–421
+Gonza´lez Portilla M (1984) Tecnologı´a y productividad en la siderurgia espan˜ola el caso de Altos Hornos
+de Vizcaya, 1880–1936. In: Garcı´a Delgado JL (ed) Espan˜a 1898–1936: Estructuras y cambio.
+Universidad Complutense, Madrid, pp 71–89
+Gonza´lez Portilla M (2001) Los orı´genes de una metro´poli industrial: la rı´a de Bilbao, vol I. BBVA,
+Bilbao
+Gordon D (2006) The concept and measurement of poverty. In: Pantazis C, Gordon D, Levitas R (eds)
+Poverty and social exclusion in Britain. The Policy Press, Bristol, pp 29–69
+Greary D (1981) European labour protest, 1848–1939. Croom Helm, London
+Griffin JI (1939) Strikes a study in quantitative economics. Columbia University Press, New York
+S. O. Houpt, J. C. Rojo Cagigal
+123
+Guzman MPD, Cabrera JP, Yuchingtat GP, Gaurano AL, Abanto ZU (1984) A study of the energy
+expenditure, dietary intake and pattern of daily activity among various occupational groups, Pila,
+Laguna rice farmers. Philos J Nutr 37:163–174
+Harris B (2004) Public health, nutrition, and the decline of mortality: the McKeown thesis revisited. Soc
+Hist Med 17:379–407
+Harrison J (1983) Heavy industry, the state, and economic development in the Basque region, 1876–1936.
+Econ Hist Rev 36:535–551
+Hicks JR (1932) The theory of wages. Macmillan, London
+Hoffer E (1951) The true believer. Harper and Row, New York
+Horrell S, Humphries J (1992) Old questions, new data, and alternative perspectives: families’ living
+standards in the industrial revolution. J Econ Hist 52:849–880
+Houpt S, Rojo Cagigal JC (2013) El desarrollo de la gran industria. In: Gonza´lez Enciso A, Mate´s Barco
+JM (eds) Historia Econo´mica de Espan˜a, 2nd edn. Ariel, Barcelona, pp 521–549
+Huberman M, Young D (2002) Hope against hope: strike activity in Canada, 1920–1939. Explor Econ
+Hist 39:315–354
+Humphries J (1977) The working class family, women’s liberation and class struggle. The case of
+nineteenth century British history. Rev Radic Polit Econ 3:25–41
+Humphries J (2010) Childhood and child labour in the British industrial revolution. Cambridge University
+Press, Cambridge
+Humphries J (2013) The lure of aggregates and the pitfalls of the patriarchal perspective: a critique of the
+high wage economy interpretation of the British industrial revolution. Econ Hist Rev 66:693–714
+Iba´n˜ez N, Pe´rez J (2012) Orı´genes y desarrollo del socialismo en el Paı´s Vasco (1890–1936). Bilduma 19.
+http://www.errenteria.net/es/html/40/1101.shtml. Accessed 26 May 2012
+Ingram P, Metcalf D, Wadsworth J (1993) Strike incidence in British manufacturing in the 1980s. Ind
+Labor Relat Rev 46:704–717
+Johnson EA (1995) Urbanization and crime: Germany 1871–1914. Cambridge University Press,
+Cambridge
+Jurkat EH, Jurkat DB (1949) Economic function of strikes. Ind Labor Relat Rev 2:527–545
+Kaufman BE (1982) The determinants of strikes in the United States, 1900–1977. Ind Labor Relat Rev
+35:473–490
+Kaufman BE (2010) Institutional economics and the theory of what unions do. Andrew Young School of
+Policy Studies Research Paper Series, working paper 10-06, http://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=1565660
+Kennan J (1987) The economics of strikes. In: Ashenfelter O, Layard R (eds) Handbook of labor
+economics, vol 2. Elsevier, New York, pp 1091–1137
+Kennan J (2008) Strikes. In: Durlauf SN, Blume LE (eds) The new Palgrave dictionary of economics, 2nd
+edn. http://www.dictionaryofeconomics.com/article?id=pde2008_S000304. Accessed 26 May 2012
+Kim W (2007) Social insurance expansion and political regime dynamics in Europe, 1880–1945. Soc Sci
+Q 88:494–514
+Kirk D (1960) The influence of business cycles on marriage and birth rates. In: Demographic and
+economic change in developed countries. National Bureau of Economic Research, pp 257–276.
+http://www.nber.org/chapters/c2388. Accessed 6 Sep 2012. Includes comments by DS Thomas
+Knowles KGJC (1952) Strikes: a study in industrial conflict. Blackwell, Oxford
+de Larran˜aga P (1977) Contribucio´n a la historia obrera de Euskalherria. Aun˜amendi, San Sebastia´n
+Kuznets S (1976) Demographic aspects of the size distribution of income: an explanatory essay. Econ
+Dev Cult Change 25:1–94
+Lazcano J (1950) Los conflictos sociales en Vizcaya.’ Dissertation, Universidad de Deusto
+Linz JJ (1981) A century of politics and interests in Spain. In: Berger S (ed) Organizing interests in
+Western Europe. Pluralism, corporatism and the transformation of politics. Cambridge University
+Press, Cambridge, pp 365–415
+Luengo F (1990) Crecimiento econo´mico y cambio social. Guipu´zcoa 1917–1923. Universidad del Paı´s
+Vasco, Bilbao
+Mees L (1992) Nacionalismo vasco, movimiento obrero y cuestio´n social, 1903–1923. Fundacio´n Sabino
+Arana, Bilbao
+Mehlum H, Miguel E, Torvik R (2006) Poverty and crime in 19th century Germany. J Urb Econ
+59(3):370–388
+Miralles Palencia R (1988) El socialismo vasco durante la II Repu´blica: organizacio´n, ideologı´a, polı´tica
+y elecciones, 1931–1936. Universidad del Paı´s Vasco, Bilbao
+Relative deprivation and labour conflict during Spain’s industrialization
+123
+Miralles Palencia R (1992) Historiografı´a del movimiento obrero en el Paı´s Vasco: 1880–1936. Historia
+Contempora´nea 7:237–255
+Mumford K (1993) A critical comparison of strike activity. Oxf Bull Econ Stat 55:285–312
+Moore GH (1983) Security markets and business cycles. In: Business cycles, inflation and forecasting.
+National Bureau of Research, pp 139–160. http://www.nber.org/books/moor83-1. Accessed 26 May
+2012
+Morys M, Ivanov M (2011) Business cycles in south-east Europe from independence to the end of the
+cold war. CHERRY discussion paper 2011/02
+Naples MI (1987) An analysis of defensive strikes. Ind Relat 26:96–105
+Ola´barri I (1978) Relaciones laborales en Vizcaya (1890–1936). Zugaza, Durango
+Otaegui M (1986) Censo de comite´s paritarios de Guipu´zcoa y Vizcaya. In: Garcı´a Delgado JL (ed) La
+crisis de la Restauracio´n. Espan˜a entre la Primera Guerra Mundial y la Segunda Repu´blica. II
+Coloquio de Segovia sobre Historia Contempora´nea de Espan˜a. Siglo XXI, Madrid, pp 291–314
+Paldam M, Pedersen PJ (1984) The large pattern of industrial conflict—a comparative study of 18
+countries, 1919–79. Int J Soc Econ 11:3–28
+Payne S (2009) The Spanish Civil War. Cambridge University Press, Cambridge
+Payne P, Lipton M (1994) How third world rural households adapt to dietary energy stress: the evidence
+and the issues. Food Policy Rev 134
+Pencavel JH (1970) An investigation into industrial strike activity in Britain. Economy 37:239–256
+Pe´rez Castroviejo PM (1992) Clase obrera y niveles de vida en las primeras fases de la industrializacio´n
+vizcaı´na. Ministerio de Trabajo y Seguridad Social, Madrid
+Perfecto Garcı´a MA´ (1977) Regeneracionismo y corporativismo en la Dictadura de Primo de Rivera. In:
+Tusell J, Montero Garcı´a F, Marı´n Arce JM (eds) Las derechas en la Espan˜a contempora´nea.
+Anthropos, Barcelona, pp 177–196
+Perrot M (1974) Les ouvriers en gre`ve (France 1871–1890). Mouton, Paris
+Pinto AC (2012) Corporatism and authoritarian institutions in interwar European dictatorships (August
+24, 2012). http://ssrn.com/abstract=2135576 or http://dx.doi.org/10.2139/ssrn.2135576
+Prados de la Escosura L (2003) El progreso econo´mico de Espan˜a 1850–2000. Fundacio´n BBVA, Bilbao
+Prat M, Molina O (2011) State corporatism and democratic industrial relations in Spain, 1926–1935. A
+reappraisal. In: Paper presented at the X AHEE congress Carmona (Spain), Sept 8–10
+Ray D (1998) Development economics. Princeton University Press, pp 249–294 & 489–504
+Reher DS (1994) Ciudades, procesos de urbanizacio´n y sistemas urbanos en la Penı´nsula Ibe´rica,
+1500–1991. In: Monclu´s FJ, Oyo´n JL, Guardia M (eds) Atlas histo´rico de ciudades europeas, vol I.,
+Penı´nsula Ibe´ricaSalvat, Barcelona, pp 1–29
+Rees A (1954) Industrial conflict and business fluctuations. In: Kornhauser A, Dubin R, Ross AM (eds)
+Industrial conflict. McGraw Hill, New York, pp 213–220
+Rey Reguillo F (1992) Propietarios y patronos. La polı´tica de las organizaciones econo´micas en la Espan˜a
+de la Restauracio´n, 1914–1923. Ministerio de Trabajo y Seguridad Social, Madrid
+Ritschl A, Serferaz S, Uebele M (2008) The US business cycle, 1867–1995: dynamic factor analysis vs.
+reconstructed national accounts. LSE economic history working paper 22305
+Rivera A (1985) Situacio´n y comportamiento de la clase obrera en Vitoria, 1900–1915. Universidad del
+Paı´s Vasco, Bilbao
+Rivera A (2002) Obreros y organizaciones obreras vascas en la II Repu´blica. Cuadernos de Alzate
+27:121–135
+Rojo Cagigal JC (2009) Las instituciones para la negociacio´n colectiva en Espan˜a en el siglo XX. Revista
+Empresa y Humanismo 12:89–120
+Rojo Cagigal JC, Houpt S (2011) Hunger in hell’s kitchen. Family living conditions during Spanish
+industrialization. The Bilbao estuary, 1914–1935. Working Paper #11-04, Universidad Carlos III de
+Madrid
+Ross AM (1954) The natural history of the strike. In: Kornhauser A, Dubin R, Ross A (eds) Industrial
+conflict. McGraw Hill, New York, pp 23–36
+Rothbart R (1989) Homes are what any strike is about: immigrant labor and the family wage. J Soc Hist
+23:267–284
+Sanfeliciano Lo´pez ML (1990) UGT de Vizcaya: 1931–1936. Unio´n General de Trabajadores, Bilbao
+Schmitter PC (1974) Still the century of corporatism? Rev Politics 36:85–131
+Schofield S (1974) Seasonal factors affecting nutrition in different age groups and especially preschool
+children. J Dev Stud 11:22–40
+Scully G (1971) Business cycles and industrial strike activity. J Bus 44:359–374
+S. O. Houpt, J. C. Rojo Cagigal
+123
+Shalev MM (1980) Trade unionism and economic analysis: the case of industrial conflict. J Labor Res
+1:133–174
+Sharp PR, Weisdorf JL (2012) French revolution or industrial revolution? A note on the contrasting
+experiences of England and France up to 1800. Cliometrica 6:79–88
+Shorter E, Tilly C (1974) Strikes in France, 1830–1968. Cambridge University Press, New York
+Silvestre Rodrı´guez J (2003) Los determinantes de la protesta obrera en Espan˜a, 1905–1935: ciclo
+econo´mico, marco polı´tico y organizacio´n sindical. Revista de Historia Industrial 24:51–80
+Skeels JW (1982) The economic and organizational basis of early United States strikes, 1900–1948. Ind
+Labor Relat Rev 35:491–503
+Soto Carmona A´ (1989) El trabajo industrial en la Espan˜a contempora´nea, 1874–1936. Anthropos,
+Barcelona
+Southall H, Gilbert D (1996) A good time to wed? Marriage and economic distress in England and Wales,
+1839–1914. Econ Hist Rev 49:35–57
+Stern RM (1978) Methodological issues in quantitative strike analysis. Ind Relat 17:32–42
+Snyder D (1977) Early North American strikes: a reinterpretation. Ind Labor Relat Rev 30:325–341
+Tilly C (1978) From mobilization to revolution. Addison-Wesley, Reading
+Tilly C (1989) Introduction. In: Haimson LH, Tilly C (eds) Strikes, wars, and revolutions in an
+international perspective. Cambridge University Press, Cambridge, pp 433–448
+Townsend P (1974) Poverty as relative deprivation: resources and style of living. In: Wedderburn D (ed)
+Poverty, inequality and class structure. Cambridge University Press, London
+Traxler C, Burhop C (2010) Poverty and crime in 19th century Germany: a reassessment. Max Planck
+Institute for Research on Collective Goods, Working Paper 2010–35
+Tun˜o´n de Lara M (1972) El movimiento obrero en la historia de Espan˜a. Taurus, Madrid
+Vigna X (2012) Histoire des ouvriers en France au XXe sie`cle. Perrin, Paris
+Walter KF (1970) Australian industrial relations systems. Harvard University Press, Harvard
+Weintraub A (1966) Prosperity versus strikes: an empirical approach. Ind Labor Relat Rev 19:231–238
+Relative deprivation and labour conflict during Spain’s industrialization
+123

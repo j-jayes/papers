@@ -15,9 +15,29 @@ tables <- df %>%
   html_nodes("body") %>% 
   html_nodes(".report") %>% 
   html_nodes(".item") %>% 
+  html_children() %>% 
   html_table()
 
 
 tables %>% 
-  pluck(1)
+  html_nodes("h2")
 ```
+
+
+
+```{r}
+# Read the HTML file into R
+html_file <- read_html(here::here("electricity-paper-3", "ep3.htm"))
+
+# Select the article list element
+article_list_element <- html_nodes(html_file, ".report")
+
+# Extract the title, author, and abstract of each article
+article_data <- article_list_element %>%
+  html_children() %>%
+  map(function(article) {
+    title <- article %>% html_node(".article-title") %>% html_text()
+    author <- article %>% html_node(".article-author") %>% html_text()
+    abstract <- article %>% html_node(".article-abstract") %>% html
+```
+
